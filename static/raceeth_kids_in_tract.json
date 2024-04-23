@@ -1,0 +1,2442 @@
+[
+  {
+    "geoid": 37119000101,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  },
+  {
+    "geoid": 37119000102,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000103,
+    "share_white_kids": 71,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 29,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000104,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  },
+  {
+    "geoid": 37119000301,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000302,
+    "share_white_kids": 27,
+    "share_black_kids": 73,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000401,
+    "share_white_kids": 57,
+    "share_black_kids": 43,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000402,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000501,
+    "share_white_kids": 0,
+    "share_black_kids": 100,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000502,
+    "share_white_kids": 57,
+    "share_black_kids": 43,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000503,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  },
+  {
+    "geoid": 37119000600,
+    "share_white_kids": 3,
+    "share_black_kids": 85,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 0,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119000700,
+    "share_white_kids": 0,
+    "share_black_kids": 100,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000800,
+    "share_white_kids": 7,
+    "share_black_kids": 91,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 2,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119000900,
+    "share_white_kids": 29,
+    "share_black_kids": 59,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119001000,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119001100,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119001200,
+    "share_white_kids": 28,
+    "share_black_kids": 10,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 0,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119001300,
+    "share_white_kids": 34,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119001400,
+    "share_white_kids": 39,
+    "share_black_kids": 40,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 0,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119001504,
+    "share_white_kids": 6,
+    "share_black_kids": 50,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 15,
+    "share_other_kids": 13
+  },
+  {
+    "geoid": 37119001505,
+    "share_white_kids": 3,
+    "share_black_kids": 4,
+    "share_hispanic_kids": 58,
+    "share_asian_kids": 3,
+    "share_other_kids": 37
+  },
+  {
+    "geoid": 37119001507,
+    "share_white_kids": 3,
+    "share_black_kids": 20,
+    "share_hispanic_kids": 49,
+    "share_asian_kids": 0,
+    "share_other_kids": 29
+  },
+  {
+    "geoid": 37119001508,
+    "share_white_kids": 4,
+    "share_black_kids": 45,
+    "share_hispanic_kids": 36,
+    "share_asian_kids": 1,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119001509,
+    "share_white_kids": 0,
+    "share_black_kids": 59,
+    "share_hispanic_kids": 29,
+    "share_asian_kids": 3,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119001510,
+    "share_white_kids": 1,
+    "share_black_kids": 63,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 3,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119001603,
+    "share_white_kids": 10,
+    "share_black_kids": 33,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 1,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119001605,
+    "share_white_kids": 9,
+    "share_black_kids": 20,
+    "share_hispanic_kids": 38,
+    "share_asian_kids": 5,
+    "share_other_kids": 31
+  },
+  {
+    "geoid": 37119001606,
+    "share_white_kids": 5,
+    "share_black_kids": 21,
+    "share_hispanic_kids": 36,
+    "share_asian_kids": 9,
+    "share_other_kids": 33
+  },
+  {
+    "geoid": 37119001607,
+    "share_white_kids": 3,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 37,
+    "share_asian_kids": 0,
+    "share_other_kids": 32
+  },
+  {
+    "geoid": 37119001608,
+    "share_white_kids": 4,
+    "share_black_kids": 31,
+    "share_hispanic_kids": 37,
+    "share_asian_kids": 10,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119001609,
+    "share_white_kids": 0,
+    "share_black_kids": 19,
+    "share_hispanic_kids": 56,
+    "share_asian_kids": 2,
+    "share_other_kids": 23
+  },
+  {
+    "geoid": 37119001701,
+    "share_white_kids": 5,
+    "share_black_kids": 29,
+    "share_hispanic_kids": 37,
+    "share_asian_kids": 0,
+    "share_other_kids": 29
+  },
+  {
+    "geoid": 37119001702,
+    "share_white_kids": 10,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 5,
+    "share_other_kids": 28
+  },
+  {
+    "geoid": 37119001801,
+    "share_white_kids": 38,
+    "share_black_kids": 60,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 2,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119001802,
+    "share_white_kids": 21,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 21,
+    "share_asian_kids": 5,
+    "share_other_kids": 15
+  },
+  {
+    "geoid": 37119001910,
+    "share_white_kids": 0,
+    "share_black_kids": 19,
+    "share_hispanic_kids": 49,
+    "share_asian_kids": 11,
+    "share_other_kids": 26
+  },
+  {
+    "geoid": 37119001911,
+    "share_white_kids": 9,
+    "share_black_kids": 38,
+    "share_hispanic_kids": 22,
+    "share_asian_kids": 12,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119001914,
+    "share_white_kids": 24,
+    "share_black_kids": 31,
+    "share_hispanic_kids": 26,
+    "share_asian_kids": 11,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119001916,
+    "share_white_kids": 8,
+    "share_black_kids": 51,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 8,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119001917,
+    "share_white_kids": 15,
+    "share_black_kids": 17,
+    "share_hispanic_kids": 41,
+    "share_asian_kids": 3,
+    "share_other_kids": 27
+  },
+  {
+    "geoid": 37119001918,
+    "share_white_kids": 7,
+    "share_black_kids": 38,
+    "share_hispanic_kids": 34,
+    "share_asian_kids": 0,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119001919,
+    "share_white_kids": 10,
+    "share_black_kids": 15,
+    "share_hispanic_kids": 41,
+    "share_asian_kids": 8,
+    "share_other_kids": 30
+  },
+  {
+    "geoid": 37119001920,
+    "share_white_kids": 10,
+    "share_black_kids": 10,
+    "share_hispanic_kids": 45,
+    "share_asian_kids": 2,
+    "share_other_kids": 35
+  },
+  {
+    "geoid": 37119001921,
+    "share_white_kids": 13,
+    "share_black_kids": 29,
+    "share_hispanic_kids": 33,
+    "share_asian_kids": 13,
+    "share_other_kids": 13
+  },
+  {
+    "geoid": 37119001922,
+    "share_white_kids": 9,
+    "share_black_kids": 40,
+    "share_hispanic_kids": 30,
+    "share_asian_kids": 0,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119001923,
+    "share_white_kids": 8,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 38,
+    "share_asian_kids": 0,
+    "share_other_kids": 32
+  },
+  {
+    "geoid": 37119001924,
+    "share_white_kids": 0,
+    "share_black_kids": 20,
+    "share_hispanic_kids": 32,
+    "share_asian_kids": 39,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119001925,
+    "share_white_kids": 4,
+    "share_black_kids": 56,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 4,
+    "share_other_kids": 18
+  },
+  {
+    "geoid": 37119001926,
+    "share_white_kids": 3,
+    "share_black_kids": 70,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 0,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119001927,
+    "share_white_kids": 0,
+    "share_black_kids": 29,
+    "share_hispanic_kids": 44,
+    "share_asian_kids": 0,
+    "share_other_kids": 32
+  },
+  {
+    "geoid": 37119002004,
+    "share_white_kids": 38,
+    "share_black_kids": 35,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002005,
+    "share_white_kids": 54,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 14,
+    "share_asian_kids": 19,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002006,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002007,
+    "share_white_kids": 31,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 30,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002008,
+    "share_white_kids": 74,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002100,
+    "share_white_kids": 72,
+    "share_black_kids": 22,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 0,
+    "share_other_kids": 2
+  },
+  {
+    "geoid": 37119002201,
+    "share_white_kids": 80,
+    "share_black_kids": 2,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 2,
+    "share_other_kids": 2
+  },
+  {
+    "geoid": 37119002202,
+    "share_white_kids": 90,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 2,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002300,
+    "share_white_kids": 0,
+    "share_black_kids": 92,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119002400,
+    "share_white_kids": 93,
+    "share_black_kids": 7,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002500,
+    "share_white_kids": 85,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002600,
+    "share_white_kids": 86,
+    "share_black_kids": 4,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 2,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119002701,
+    "share_white_kids": 76,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 0,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119002702,
+    "share_white_kids": 87,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 7,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119002800,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002903,
+    "share_white_kids": 96,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002905,
+    "share_white_kids": 96,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119002907,
+    "share_white_kids": 57,
+    "share_black_kids": 5,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 30,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002908,
+    "share_white_kids": 90,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002909,
+    "share_white_kids": 82,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 18,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119002910,
+    "share_white_kids": 90,
+    "share_black_kids": 10,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003006,
+    "share_white_kids": 82,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 8,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003008,
+    "share_white_kids": 73,
+    "share_black_kids": 7,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 2,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119003012,
+    "share_white_kids": 60,
+    "share_black_kids": 29,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 1,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119003013,
+    "share_white_kids": 92,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003015,
+    "share_white_kids": 81,
+    "share_black_kids": 4,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003016,
+    "share_white_kids": 51,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 37,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119003017,
+    "share_white_kids": 82,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 1,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003018,
+    "share_white_kids": 80,
+    "share_black_kids": 3,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 9,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003019,
+    "share_white_kids": 98,
+    "share_black_kids": 2,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003020,
+    "share_white_kids": 94,
+    "share_black_kids": 2,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003021,
+    "share_white_kids": 91,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003022,
+    "share_white_kids": 93,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 5,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119003102,
+    "share_white_kids": 28,
+    "share_black_kids": 9,
+    "share_hispanic_kids": 37,
+    "share_asian_kids": 0,
+    "share_other_kids": 26
+  },
+  {
+    "geoid": 37119003105,
+    "share_white_kids": 91,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 0,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119003106,
+    "share_white_kids": 17,
+    "share_black_kids": 17,
+    "share_hispanic_kids": 60,
+    "share_asian_kids": 2,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119003108,
+    "share_white_kids": 11,
+    "share_black_kids": 37,
+    "share_hispanic_kids": 52,
+    "share_asian_kids": 0,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119003109,
+    "share_white_kids": 3,
+    "share_black_kids": 25,
+    "share_hispanic_kids": 71,
+    "share_asian_kids": 0,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119003110,
+    "share_white_kids": 55,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 54,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003111,
+    "share_white_kids": 100,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003201,
+    "share_white_kids": 56,
+    "share_black_kids": 4,
+    "share_hispanic_kids": 25,
+    "share_asian_kids": 0,
+    "share_other_kids": 24
+  },
+  {
+    "geoid": 37119003203,
+    "share_white_kids": 79,
+    "share_black_kids": 21,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003204,
+    "share_white_kids": 87,
+    "share_black_kids": 3,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003301,
+    "share_white_kids": 65,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 0,
+    "share_other_kids": 24
+  },
+  {
+    "geoid": 37119003302,
+    "share_white_kids": 98,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 2,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003401,
+    "share_white_kids": 74,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 26,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003402,
+    "share_white_kids": 95,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 1,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003500,
+    "share_white_kids": 79,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 14,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003600,
+    "share_white_kids": 14,
+    "share_black_kids": 51,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 0,
+    "share_other_kids": 16
+  },
+  {
+    "geoid": 37119003701,
+    "share_white_kids": 31,
+    "share_black_kids": 69,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003702,
+    "share_white_kids": 8,
+    "share_black_kids": 58,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 0,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119003802,
+    "share_white_kids": 0,
+    "share_black_kids": 72,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 0,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119003805,
+    "share_white_kids": 18,
+    "share_black_kids": 28,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 37,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003807,
+    "share_white_kids": 1,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 60,
+    "share_asian_kids": 0,
+    "share_other_kids": 16
+  },
+  {
+    "geoid": 37119003808,
+    "share_white_kids": 1,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 65,
+    "share_asian_kids": 1,
+    "share_other_kids": 19
+  },
+  {
+    "geoid": 37119003809,
+    "share_white_kids": 10,
+    "share_black_kids": 43,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 8,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119003810,
+    "share_white_kids": 0,
+    "share_black_kids": 32,
+    "share_hispanic_kids": 58,
+    "share_asian_kids": 15,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119003811,
+    "share_white_kids": 0,
+    "share_black_kids": 88,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119003902,
+    "share_white_kids": 0,
+    "share_black_kids": 87,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 0,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119003903,
+    "share_white_kids": 1,
+    "share_black_kids": 65,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 5,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119004000,
+    "share_white_kids": 0,
+    "share_black_kids": 85,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 4,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119004101,
+    "share_white_kids": 12,
+    "share_black_kids": 88,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119004102,
+    "share_white_kids": 10,
+    "share_black_kids": 27,
+    "share_hispanic_kids": 34,
+    "share_asian_kids": 29,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119004200,
+    "share_white_kids": 0,
+    "share_black_kids": 90,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119004302,
+    "share_white_kids": 2,
+    "share_black_kids": 62,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 3,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119004303,
+    "share_white_kids": 0,
+    "share_black_kids": 35,
+    "share_hispanic_kids": 30,
+    "share_asian_kids": 15,
+    "share_other_kids": 20
+  },
+  {
+    "geoid": 37119004304,
+    "share_white_kids": 1,
+    "share_black_kids": 59,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 9,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119004306,
+    "share_white_kids": 0,
+    "share_black_kids": 14,
+    "share_hispanic_kids": 57,
+    "share_asian_kids": 0,
+    "share_other_kids": 29
+  },
+  {
+    "geoid": 37119004307,
+    "share_white_kids": 14,
+    "share_black_kids": 75,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 4,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119004400,
+    "share_white_kids": 8,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 22,
+    "share_asian_kids": 4,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119004500,
+    "share_white_kids": 18,
+    "share_black_kids": 70,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 10,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119004600,
+    "share_white_kids": 0,
+    "share_black_kids": 85,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 0,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119004700,
+    "share_white_kids": 11,
+    "share_black_kids": 89,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119004800,
+    "share_white_kids": 8,
+    "share_black_kids": 52,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 0,
+    "share_other_kids": 20
+  },
+  {
+    "geoid": 37119004900,
+    "share_white_kids": 0,
+    "share_black_kids": 100,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005000,
+    "share_white_kids": 5,
+    "share_black_kids": 80,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 1,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119005100,
+    "share_white_kids": 0,
+    "share_black_kids": 70,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 8,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119005200,
+    "share_white_kids": 7,
+    "share_black_kids": 81,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 0,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119005301,
+    "share_white_kids": 3,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 30,
+    "share_asian_kids": 0,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119005305,
+    "share_white_kids": 0,
+    "share_black_kids": 33,
+    "share_hispanic_kids": 34,
+    "share_asian_kids": 0,
+    "share_other_kids": 33
+  },
+  {
+    "geoid": 37119005306,
+    "share_white_kids": 3,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 43,
+    "share_asian_kids": 0,
+    "share_other_kids": 37
+  },
+  {
+    "geoid": 37119005307,
+    "share_white_kids": 2,
+    "share_black_kids": 35,
+    "share_hispanic_kids": 33,
+    "share_asian_kids": 3,
+    "share_other_kids": 26
+  },
+  {
+    "geoid": 37119005308,
+    "share_white_kids": 3,
+    "share_black_kids": 14,
+    "share_hispanic_kids": 46,
+    "share_asian_kids": 0,
+    "share_other_kids": 40
+  },
+  {
+    "geoid": 37119005403,
+    "share_white_kids": 7,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 35,
+    "share_asian_kids": 0,
+    "share_other_kids": 13
+  },
+  {
+    "geoid": 37119005404,
+    "share_white_kids": 1,
+    "share_black_kids": 61,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 4,
+    "share_other_kids": 15
+  },
+  {
+    "geoid": 37119005405,
+    "share_white_kids": 1,
+    "share_black_kids": 81,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 0,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119005406,
+    "share_white_kids": 2,
+    "share_black_kids": 85,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005508,
+    "share_white_kids": 35,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 1,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119005510,
+    "share_white_kids": 2,
+    "share_black_kids": 43,
+    "share_hispanic_kids": 33,
+    "share_asian_kids": 0,
+    "share_other_kids": 32
+  },
+  {
+    "geoid": 37119005511,
+    "share_white_kids": 4,
+    "share_black_kids": 87,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 0,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119005512,
+    "share_white_kids": 14,
+    "share_black_kids": 45,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 0,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119005513,
+    "share_white_kids": 33,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 13,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005515,
+    "share_white_kids": 48,
+    "share_black_kids": 50,
+    "share_hispanic_kids": 1,
+    "share_asian_kids": 2,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005516,
+    "share_white_kids": 41,
+    "share_black_kids": 56,
+    "share_hispanic_kids": 1,
+    "share_asian_kids": 1,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005517,
+    "share_white_kids": 56,
+    "share_black_kids": 20,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 4,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005519,
+    "share_white_kids": 25,
+    "share_black_kids": 40,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 16,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119005520,
+    "share_white_kids": 28,
+    "share_black_kids": 33,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 15,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119005522,
+    "share_white_kids": 6,
+    "share_black_kids": 46,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 7,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119005525,
+    "share_white_kids": 19,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 13,
+    "share_other_kids": 25
+  },
+  {
+    "geoid": 37119005526,
+    "share_white_kids": 10,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 29,
+    "share_asian_kids": 11,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119005527,
+    "share_white_kids": 23,
+    "share_black_kids": 38,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 0,
+    "share_other_kids": 20
+  },
+  {
+    "geoid": 37119005528,
+    "share_white_kids": 39,
+    "share_black_kids": 59,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005529,
+    "share_white_kids": 19,
+    "share_black_kids": 57,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119005530,
+    "share_white_kids": 16,
+    "share_black_kids": 69,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 11,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005531,
+    "share_white_kids": 41,
+    "share_black_kids": 46,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 6,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005532,
+    "share_white_kids": 31,
+    "share_black_kids": 28,
+    "share_hispanic_kids": 22,
+    "share_asian_kids": 19,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005533,
+    "share_white_kids": 47,
+    "share_black_kids": 53,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005534,
+    "share_white_kids": 0,
+    "share_black_kids": 80,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 20,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005535,
+    "share_white_kids": 5,
+    "share_black_kids": 81,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 14,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005536,
+    "share_white_kids": 31,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 24,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005604,
+    "share_white_kids": 26,
+    "share_black_kids": 71,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005609,
+    "share_white_kids": 0,
+    "share_black_kids": 54,
+    "share_hispanic_kids": 23,
+    "share_asian_kids": 0,
+    "share_other_kids": 23
+  },
+  {
+    "geoid": 37119005610,
+    "share_white_kids": 15,
+    "share_black_kids": 56,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 0,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005611,
+    "share_white_kids": 9,
+    "share_black_kids": 76,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 5,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119005612,
+    "share_white_kids": 10,
+    "share_black_kids": 36,
+    "share_hispanic_kids": 39,
+    "share_asian_kids": 6,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005613,
+    "share_white_kids": 3,
+    "share_black_kids": 60,
+    "share_hispanic_kids": 23,
+    "share_asian_kids": 6,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119005615,
+    "share_white_kids": 15,
+    "share_black_kids": 64,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 2,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119005616,
+    "share_white_kids": 9,
+    "share_black_kids": 71,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 1,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119005617,
+    "share_white_kids": 15,
+    "share_black_kids": 48,
+    "share_hispanic_kids": 25,
+    "share_asian_kids": 0,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005618,
+    "share_white_kids": 30,
+    "share_black_kids": 51,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 0,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005619,
+    "share_white_kids": 16,
+    "share_black_kids": 59,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 1,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119005621,
+    "share_white_kids": 55,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 4,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119005622,
+    "share_white_kids": 0,
+    "share_black_kids": 48,
+    "share_hispanic_kids": 38,
+    "share_asian_kids": 0,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005623,
+    "share_white_kids": 5,
+    "share_black_kids": 75,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119005624,
+    "share_white_kids": 25,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 4,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005625,
+    "share_white_kids": 25,
+    "share_black_kids": 52,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 17,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005626,
+    "share_white_kids": 2,
+    "share_black_kids": 58,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 0,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119005627,
+    "share_white_kids": 7,
+    "share_black_kids": 64,
+    "share_hispanic_kids": 17,
+    "share_asian_kids": 0,
+    "share_other_kids": 13
+  },
+  {
+    "geoid": 37119005709,
+    "share_white_kids": 58,
+    "share_black_kids": 6,
+    "share_hispanic_kids": 27,
+    "share_asian_kids": 9,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005710,
+    "share_white_kids": 29,
+    "share_black_kids": 44,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 3,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119005712,
+    "share_white_kids": 80,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 13,
+    "share_asian_kids": 0,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119005713,
+    "share_white_kids": 66,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 6,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119005714,
+    "share_white_kids": 83,
+    "share_black_kids": 12,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 0,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119005715,
+    "share_white_kids": 42,
+    "share_black_kids": 13,
+    "share_hispanic_kids": 25,
+    "share_asian_kids": 0,
+    "share_other_kids": 19
+  },
+  {
+    "geoid": 37119005716,
+    "share_white_kids": 31,
+    "share_black_kids": 23,
+    "share_hispanic_kids": 29,
+    "share_asian_kids": 3,
+    "share_other_kids": 16
+  },
+  {
+    "geoid": 37119005718,
+    "share_white_kids": 43,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 0,
+    "share_other_kids": 15
+  },
+  {
+    "geoid": 37119005719,
+    "share_white_kids": 76,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 1,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005720,
+    "share_white_kids": 80,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 20,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005721,
+    "share_white_kids": 86,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005722,
+    "share_white_kids": 41,
+    "share_black_kids": 34,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119005723,
+    "share_white_kids": 25,
+    "share_black_kids": 21,
+    "share_hispanic_kids": 22,
+    "share_asian_kids": 18,
+    "share_other_kids": 14
+  },
+  {
+    "geoid": 37119005811,
+    "share_white_kids": 45,
+    "share_black_kids": 3,
+    "share_hispanic_kids": 35,
+    "share_asian_kids": 4,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119005815,
+    "share_white_kids": 66,
+    "share_black_kids": 9,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 18,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005816,
+    "share_white_kids": 63,
+    "share_black_kids": 17,
+    "share_hispanic_kids": 13,
+    "share_asian_kids": 5,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005817,
+    "share_white_kids": 70,
+    "share_black_kids": 6,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 15,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005824,
+    "share_white_kids": 17,
+    "share_black_kids": 35,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 2,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119005826,
+    "share_white_kids": 40,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 0,
+    "share_other_kids": 23
+  },
+  {
+    "geoid": 37119005827,
+    "share_white_kids": 2,
+    "share_black_kids": 55,
+    "share_hispanic_kids": 30,
+    "share_asian_kids": 12,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005828,
+    "share_white_kids": 85,
+    "share_black_kids": 12,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005829,
+    "share_white_kids": 3,
+    "share_black_kids": 46,
+    "share_hispanic_kids": 49,
+    "share_asian_kids": 0,
+    "share_other_kids": 20
+  },
+  {
+    "geoid": 37119005830,
+    "share_white_kids": 38,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 21,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119005832,
+    "share_white_kids": 77,
+    "share_black_kids": 6,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 10,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005833,
+    "share_white_kids": 89,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 7,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119005834,
+    "share_white_kids": 74,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 14,
+    "share_asian_kids": 1,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005835,
+    "share_white_kids": 80,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 8,
+    "share_other_kids": 2
+  },
+  {
+    "geoid": 37119005836,
+    "share_white_kids": 52,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 33,
+    "share_asian_kids": 4,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005839,
+    "share_white_kids": 71,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 1,
+    "share_asian_kids": 6,
+    "share_other_kids": 22
+  },
+  {
+    "geoid": 37119005840,
+    "share_white_kids": 83,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 5,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005843,
+    "share_white_kids": 38,
+    "share_black_kids": 20,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 23,
+    "share_other_kids": 2
+  },
+  {
+    "geoid": 37119005845,
+    "share_white_kids": 25,
+    "share_black_kids": 13,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 54,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005846,
+    "share_white_kids": 71,
+    "share_black_kids": 9,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 11,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005847,
+    "share_white_kids": 58,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 30,
+    "share_other_kids": 2
+  },
+  {
+    "geoid": 37119005848,
+    "share_white_kids": 73,
+    "share_black_kids": 2,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 12,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119005849,
+    "share_white_kids": 61,
+    "share_black_kids": 12,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 25,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005850,
+    "share_white_kids": 61,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 39,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005851,
+    "share_white_kids": 50,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 13,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119005852,
+    "share_white_kids": 75,
+    "share_black_kids": 25,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005853,
+    "share_white_kids": 13,
+    "share_black_kids": 7,
+    "share_hispanic_kids": 69,
+    "share_asian_kids": 0,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119005854,
+    "share_white_kids": 12,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 27,
+    "share_other_kids": 20
+  },
+  {
+    "geoid": 37119005855,
+    "share_white_kids": 79,
+    "share_black_kids": 5,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 10,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005856,
+    "share_white_kids": 47,
+    "share_black_kids": 14,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 32,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119005857,
+    "share_white_kids": 48,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 52,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005858,
+    "share_white_kids": 27,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 16,
+    "share_asian_kids": 30,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119005859,
+    "share_white_kids": 58,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 28,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005860,
+    "share_white_kids": 53,
+    "share_black_kids": 10,
+    "share_hispanic_kids": 16,
+    "share_asian_kids": 21,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005861,
+    "share_white_kids": 77,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 23,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005862,
+    "share_white_kids": 91,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 3,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005863,
+    "share_white_kids": 52,
+    "share_black_kids": 25,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 11,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005864,
+    "share_white_kids": 51,
+    "share_black_kids": 6,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 44,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005865,
+    "share_white_kids": 58,
+    "share_black_kids": 21,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005866,
+    "share_white_kids": 43,
+    "share_black_kids": 25,
+    "share_hispanic_kids": 21,
+    "share_asian_kids": 11,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005867,
+    "share_white_kids": 4,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 32,
+    "share_asian_kids": 19,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119005868,
+    "share_white_kids": 61,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005908,
+    "share_white_kids": 59,
+    "share_black_kids": 10,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 20,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119005910,
+    "share_white_kids": 12,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 30,
+    "share_asian_kids": 6,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119005913,
+    "share_white_kids": 16,
+    "share_black_kids": 33,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 18,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119005915,
+    "share_white_kids": 4,
+    "share_black_kids": 74,
+    "share_hispanic_kids": 22,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005916,
+    "share_white_kids": 1,
+    "share_black_kids": 46,
+    "share_hispanic_kids": 39,
+    "share_asian_kids": 2,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119005918,
+    "share_white_kids": 21,
+    "share_black_kids": 28,
+    "share_hispanic_kids": 47,
+    "share_asian_kids": 0,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005919,
+    "share_white_kids": 20,
+    "share_black_kids": 16,
+    "share_hispanic_kids": 31,
+    "share_asian_kids": 2,
+    "share_other_kids": 32
+  },
+  {
+    "geoid": 37119005920,
+    "share_white_kids": 13,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 49,
+    "share_asian_kids": 0,
+    "share_other_kids": 46
+  },
+  {
+    "geoid": 37119005921,
+    "share_white_kids": 21,
+    "share_black_kids": 63,
+    "share_hispanic_kids": 13,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005922,
+    "share_white_kids": 25,
+    "share_black_kids": 52,
+    "share_hispanic_kids": 21,
+    "share_asian_kids": 9,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005923,
+    "share_white_kids": 18,
+    "share_black_kids": 45,
+    "share_hispanic_kids": 16,
+    "share_asian_kids": 24,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005924,
+    "share_white_kids": 40,
+    "share_black_kids": 38,
+    "share_hispanic_kids": 20,
+    "share_asian_kids": 2,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005925,
+    "share_white_kids": 34,
+    "share_black_kids": 55,
+    "share_hispanic_kids": 14,
+    "share_asian_kids": 0,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005926,
+    "share_white_kids": 49,
+    "share_black_kids": 31,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 11,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119005927,
+    "share_white_kids": 12,
+    "share_black_kids": 66,
+    "share_hispanic_kids": 21,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005928,
+    "share_white_kids": 60,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 40,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119005929,
+    "share_white_kids": 28,
+    "share_black_kids": 50,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 4,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119005930,
+    "share_white_kids": 49,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 35,
+    "share_asian_kids": 2,
+    "share_other_kids": 15
+  },
+  {
+    "geoid": 37119005931,
+    "share_white_kids": 16,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 25,
+    "share_asian_kids": 0,
+    "share_other_kids": 26
+  },
+  {
+    "geoid": 37119005932,
+    "share_white_kids": 5,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 33,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119006005,
+    "share_white_kids": 27,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 3,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119006008,
+    "share_white_kids": 44,
+    "share_black_kids": 39,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 7,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119006009,
+    "share_white_kids": 11,
+    "share_black_kids": 65,
+    "share_hispanic_kids": 15,
+    "share_asian_kids": 1,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119006011,
+    "share_white_kids": 33,
+    "share_black_kids": 67,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006012,
+    "share_white_kids": 6,
+    "share_black_kids": 46,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 27,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119006013,
+    "share_white_kids": 1,
+    "share_black_kids": 62,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 2,
+    "share_other_kids": 8
+  },
+  {
+    "geoid": 37119006014,
+    "share_white_kids": 48,
+    "share_black_kids": 32,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 2,
+    "share_other_kids": 6
+  },
+  {
+    "geoid": 37119006015,
+    "share_white_kids": 29,
+    "share_black_kids": 53,
+    "share_hispanic_kids": 10,
+    "share_asian_kids": 5,
+    "share_other_kids": 5
+  },
+  {
+    "geoid": 37119006016,
+    "share_white_kids": 0,
+    "share_black_kids": 35,
+    "share_hispanic_kids": 29,
+    "share_asian_kids": 9,
+    "share_other_kids": 26
+  },
+  {
+    "geoid": 37119006103,
+    "share_white_kids": 59,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 6,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119006105,
+    "share_white_kids": 20,
+    "share_black_kids": 66,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 2,
+    "share_other_kids": 7
+  },
+  {
+    "geoid": 37119006108,
+    "share_white_kids": 18,
+    "share_black_kids": 54,
+    "share_hispanic_kids": 19,
+    "share_asian_kids": 0,
+    "share_other_kids": 17
+  },
+  {
+    "geoid": 37119006109,
+    "share_white_kids": 0,
+    "share_black_kids": 74,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 2,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119006110,
+    "share_white_kids": 11,
+    "share_black_kids": 66,
+    "share_hispanic_kids": 12,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119006111,
+    "share_white_kids": 30,
+    "share_black_kids": 45,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 0,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119006112,
+    "share_white_kids": 3,
+    "share_black_kids": 90,
+    "share_hispanic_kids": 4,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119006113,
+    "share_white_kids": 37,
+    "share_black_kids": 49,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 9,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006114,
+    "share_white_kids": 3,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 43,
+    "share_asian_kids": 0,
+    "share_other_kids": 43
+  },
+  {
+    "geoid": 37119006115,
+    "share_white_kids": 8,
+    "share_black_kids": 76,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006208,
+    "share_white_kids": 93,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 7,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006209,
+    "share_white_kids": 81,
+    "share_black_kids": 16,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006210,
+    "share_white_kids": 75,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 4,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119006211,
+    "share_white_kids": 85,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 5,
+    "share_asian_kids": 2,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119006212,
+    "share_white_kids": 59,
+    "share_black_kids": 25,
+    "share_hispanic_kids": 11,
+    "share_asian_kids": 3,
+    "share_other_kids": 1
+  },
+  {
+    "geoid": 37119006214,
+    "share_white_kids": 80,
+    "share_black_kids": 1,
+    "share_hispanic_kids": 16,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006216,
+    "share_white_kids": 68,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 14,
+    "share_other_kids": 10
+  },
+  {
+    "geoid": 37119006217,
+    "share_white_kids": 77,
+    "share_black_kids": 18,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119006218,
+    "share_white_kids": 92,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006219,
+    "share_white_kids": 90,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006220,
+    "share_white_kids": 72,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006221,
+    "share_white_kids": 78,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 14,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006222,
+    "share_white_kids": 65,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006223,
+    "share_white_kids": 52,
+    "share_black_kids": 31,
+    "share_hispanic_kids": 13,
+    "share_asian_kids": 0,
+    "share_other_kids": 4
+  },
+  {
+    "geoid": 37119006224,
+    "share_white_kids": 47,
+    "share_black_kids": 15,
+    "share_hispanic_kids": 28,
+    "share_asian_kids": 0,
+    "share_other_kids": 11
+  },
+  {
+    "geoid": 37119006305,
+    "share_white_kids": 40,
+    "share_black_kids": 29,
+    "share_hispanic_kids": 23,
+    "share_asian_kids": 8,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006306,
+    "share_white_kids": 58,
+    "share_black_kids": 30,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 12,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006307,
+    "share_white_kids": 63,
+    "share_black_kids": 22,
+    "share_hispanic_kids": 7,
+    "share_asian_kids": 10,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006308,
+    "share_white_kids": 83,
+    "share_black_kids": 14,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006309,
+    "share_white_kids": 35,
+    "share_black_kids": 19,
+    "share_hispanic_kids": 24,
+    "share_asian_kids": 0,
+    "share_other_kids": 21
+  },
+  {
+    "geoid": 37119006310,
+    "share_white_kids": 51,
+    "share_black_kids": 19,
+    "share_hispanic_kids": 18,
+    "share_asian_kids": 0,
+    "share_other_kids": 12
+  },
+  {
+    "geoid": 37119006311,
+    "share_white_kids": 89,
+    "share_black_kids": 11,
+    "share_hispanic_kids": 0,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006403,
+    "share_white_kids": 66,
+    "share_black_kids": 26,
+    "share_hispanic_kids": 9,
+    "share_asian_kids": 3,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006404,
+    "share_white_kids": 85,
+    "share_black_kids": 8,
+    "share_hispanic_kids": 6,
+    "share_asian_kids": 1,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006407,
+    "share_white_kids": 89,
+    "share_black_kids": 5,
+    "share_hispanic_kids": 2,
+    "share_asian_kids": 4,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006408,
+    "share_white_kids": 80,
+    "share_black_kids": 12,
+    "share_hispanic_kids": 8,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006409,
+    "share_white_kids": 97,
+    "share_black_kids": 0,
+    "share_hispanic_kids": 3,
+    "share_asian_kids": 0,
+    "share_other_kids": 0
+  },
+  {
+    "geoid": 37119006410,
+    "share_white_kids": 56,
+    "share_black_kids": 9,
+    "share_hispanic_kids": 39,
+    "share_asian_kids": 0,
+    "share_other_kids": 3
+  },
+  {
+    "geoid": 37119006411,
+    "share_white_kids": 32,
+    "share_black_kids": 15,
+    "share_hispanic_kids": 51,
+    "share_asian_kids": 0,
+    "share_other_kids": 9
+  },
+  {
+    "geoid": 37119980100,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  },
+  {
+    "geoid": 37119980200,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  },
+  {
+    "geoid": 37119980300,
+    "share_white_kids": "NA",
+    "share_black_kids": "NA",
+    "share_hispanic_kids": "NA",
+    "share_asian_kids": "NA",
+    "share_other_kids": "NA"
+  }
+]

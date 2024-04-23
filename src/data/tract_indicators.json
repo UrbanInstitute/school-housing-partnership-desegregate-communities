@@ -1,0 +1,3052 @@
+[
+  {
+    "geoid": 37119000101,
+    "market_share": 35,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": 11,
+    "median_gross_rent": 1738,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 6,
+    "percent_renter_occupied": 94
+  },
+  {
+    "geoid": 37119000102,
+    "market_share": 16,
+    "school_age_kids_in_tract": 18,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 1729,
+    "median_owner_cost_mortgage": 2667,
+    "percent_owner_occupied": 19,
+    "percent_renter_occupied": 81
+  },
+  {
+    "geoid": 37119000103,
+    "market_share": 30,
+    "school_age_kids_in_tract": 66,
+    "test_sfh_pct": 1,
+    "median_gross_rent": 1976,
+    "median_owner_cost_mortgage": 2016,
+    "percent_owner_occupied": 27,
+    "percent_renter_occupied": 73
+  },
+  {
+    "geoid": 37119000104,
+    "market_share": 62,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": 6,
+    "median_gross_rent": 1789,
+    "median_owner_cost_mortgage": 2609,
+    "percent_owner_occupied": 56,
+    "percent_renter_occupied": 44
+  },
+  {
+    "geoid": 37119000301,
+    "market_share": 62,
+    "school_age_kids_in_tract": 7,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 1725,
+    "median_owner_cost_mortgage": 1792,
+    "percent_owner_occupied": 16,
+    "percent_renter_occupied": 84
+  },
+  {
+    "geoid": 37119000302,
+    "market_share": 11,
+    "school_age_kids_in_tract": 22,
+    "test_sfh_pct": 2,
+    "median_gross_rent": 1629,
+    "median_owner_cost_mortgage": 2225,
+    "percent_owner_occupied": 21,
+    "percent_renter_occupied": 79
+  },
+  {
+    "geoid": 37119000401,
+    "market_share": 57,
+    "school_age_kids_in_tract": 54,
+    "test_sfh_pct": 1,
+    "median_gross_rent": 1556,
+    "median_owner_cost_mortgage": 1900,
+    "percent_owner_occupied": 10,
+    "percent_renter_occupied": 90
+  },
+  {
+    "geoid": 37119000402,
+    "market_share": 62,
+    "school_age_kids_in_tract": 11,
+    "test_sfh_pct": 3,
+    "median_gross_rent": 1696,
+    "median_owner_cost_mortgage": 2145,
+    "percent_owner_occupied": 4,
+    "percent_renter_occupied": 96
+  },
+  {
+    "geoid": 37119000501,
+    "market_share": 42,
+    "school_age_kids_in_tract": 5,
+    "test_sfh_pct": 3,
+    "median_gross_rent": 1619,
+    "median_owner_cost_mortgage": 1887,
+    "percent_owner_occupied": 29,
+    "percent_renter_occupied": 71
+  },
+  {
+    "geoid": 37119000502,
+    "market_share": 37,
+    "school_age_kids_in_tract": 277,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 1359,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 8,
+    "percent_renter_occupied": 92
+  },
+  {
+    "geoid": 37119000503,
+    "market_share": 19,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": 16,
+    "median_gross_rent": 345,
+    "median_owner_cost_mortgage": 1865,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119000600,
+    "market_share": 65,
+    "school_age_kids_in_tract": 505,
+    "test_sfh_pct": 7,
+    "median_gross_rent": 1351,
+    "median_owner_cost_mortgage": 2048,
+    "percent_owner_occupied": 24,
+    "percent_renter_occupied": 76
+  },
+  {
+    "geoid": 37119000700,
+    "market_share": 89,
+    "school_age_kids_in_tract": 47,
+    "test_sfh_pct": 18,
+    "median_gross_rent": 1598,
+    "median_owner_cost_mortgage": 1925,
+    "percent_owner_occupied": 17,
+    "percent_renter_occupied": 83
+  },
+  {
+    "geoid": 37119000800,
+    "market_share": 65,
+    "school_age_kids_in_tract": 646,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 1051,
+    "median_owner_cost_mortgage": 1512,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119000900,
+    "market_share": 64,
+    "school_age_kids_in_tract": 243,
+    "test_sfh_pct": 74,
+    "median_gross_rent": 1343,
+    "median_owner_cost_mortgage": 1955,
+    "percent_owner_occupied": 63,
+    "percent_renter_occupied": 37
+  },
+  {
+    "geoid": 37119001000,
+    "market_share": 80,
+    "school_age_kids_in_tract": 314,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1361,
+    "median_owner_cost_mortgage": 2227,
+    "percent_owner_occupied": 47,
+    "percent_renter_occupied": 53
+  },
+  {
+    "geoid": 37119001100,
+    "market_share": 42,
+    "school_age_kids_in_tract": 565,
+    "test_sfh_pct": 62,
+    "median_gross_rent": 1664,
+    "median_owner_cost_mortgage": 2602,
+    "percent_owner_occupied": 42,
+    "percent_renter_occupied": 58
+  },
+  {
+    "geoid": 37119001200,
+    "market_share": 86,
+    "school_age_kids_in_tract": 1466,
+    "test_sfh_pct": 65,
+    "median_gross_rent": 1165,
+    "median_owner_cost_mortgage": 1525,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119001300,
+    "market_share": 55,
+    "school_age_kids_in_tract": 581,
+    "test_sfh_pct": 64,
+    "median_gross_rent": 1072,
+    "median_owner_cost_mortgage": 1851,
+    "percent_owner_occupied": 47,
+    "percent_renter_occupied": 53
+  },
+  {
+    "geoid": 37119001400,
+    "market_share": 60,
+    "school_age_kids_in_tract": 551,
+    "test_sfh_pct": 55,
+    "median_gross_rent": 1518,
+    "median_owner_cost_mortgage": 1725,
+    "percent_owner_occupied": 52,
+    "percent_renter_occupied": 48
+  },
+  {
+    "geoid": 37119001504,
+    "market_share": 87,
+    "school_age_kids_in_tract": 1788,
+    "test_sfh_pct": 52,
+    "median_gross_rent": 1107,
+    "median_owner_cost_mortgage": 942,
+    "percent_owner_occupied": 45,
+    "percent_renter_occupied": 55
+  },
+  {
+    "geoid": 37119001505,
+    "market_share": 80,
+    "school_age_kids_in_tract": 2199,
+    "test_sfh_pct": 59,
+    "median_gross_rent": 1040,
+    "median_owner_cost_mortgage": 1332,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119001507,
+    "market_share": 64,
+    "school_age_kids_in_tract": 2599,
+    "test_sfh_pct": 31,
+    "median_gross_rent": 1046,
+    "median_owner_cost_mortgage": 998,
+    "percent_owner_occupied": 21,
+    "percent_renter_occupied": 79
+  },
+  {
+    "geoid": 37119001508,
+    "market_share": 79,
+    "school_age_kids_in_tract": 2127,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 963,
+    "median_owner_cost_mortgage": 1231,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119001509,
+    "market_share": 30,
+    "school_age_kids_in_tract": 1581,
+    "test_sfh_pct": 71,
+    "median_gross_rent": 1100,
+    "median_owner_cost_mortgage": 1044,
+    "percent_owner_occupied": 67,
+    "percent_renter_occupied": 33
+  },
+  {
+    "geoid": 37119001510,
+    "market_share": 62,
+    "school_age_kids_in_tract": 650,
+    "test_sfh_pct": 71,
+    "median_gross_rent": 924,
+    "median_owner_cost_mortgage": 1155,
+    "percent_owner_occupied": 52,
+    "percent_renter_occupied": 48
+  },
+  {
+    "geoid": 37119001603,
+    "market_share": 55,
+    "school_age_kids_in_tract": 1233,
+    "test_sfh_pct": 65,
+    "median_gross_rent": 1145,
+    "median_owner_cost_mortgage": 1230,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119001605,
+    "market_share": 74,
+    "school_age_kids_in_tract": 451,
+    "test_sfh_pct": 38,
+    "median_gross_rent": 916,
+    "median_owner_cost_mortgage": 1529,
+    "percent_owner_occupied": 25,
+    "percent_renter_occupied": 75
+  },
+  {
+    "geoid": 37119001606,
+    "market_share": 63,
+    "school_age_kids_in_tract": 1574,
+    "test_sfh_pct": 56,
+    "median_gross_rent": 1088,
+    "median_owner_cost_mortgage": 1309,
+    "percent_owner_occupied": 37,
+    "percent_renter_occupied": 63
+  },
+  {
+    "geoid": 37119001607,
+    "market_share": 88,
+    "school_age_kids_in_tract": 1326,
+    "test_sfh_pct": 26,
+    "median_gross_rent": 1136,
+    "median_owner_cost_mortgage": 1228,
+    "percent_owner_occupied": 22,
+    "percent_renter_occupied": 78
+  },
+  {
+    "geoid": 37119001608,
+    "market_share": 89,
+    "school_age_kids_in_tract": 1329,
+    "test_sfh_pct": 65,
+    "median_gross_rent": 1109,
+    "median_owner_cost_mortgage": 940,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119001609,
+    "market_share": 68,
+    "school_age_kids_in_tract": 940,
+    "test_sfh_pct": 40,
+    "median_gross_rent": 1063,
+    "median_owner_cost_mortgage": 1223,
+    "percent_owner_occupied": 40,
+    "percent_renter_occupied": 60
+  },
+  {
+    "geoid": 37119001701,
+    "market_share": 79,
+    "school_age_kids_in_tract": 1561,
+    "test_sfh_pct": 21,
+    "median_gross_rent": 1114,
+    "median_owner_cost_mortgage": 1774,
+    "percent_owner_occupied": 22,
+    "percent_renter_occupied": 78
+  },
+  {
+    "geoid": 37119001702,
+    "market_share": 70,
+    "school_age_kids_in_tract": 2696,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 1024,
+    "median_owner_cost_mortgage": 1272,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119001801,
+    "market_share": 62,
+    "school_age_kids_in_tract": 219,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1012,
+    "median_owner_cost_mortgage": 1426,
+    "percent_owner_occupied": 27,
+    "percent_renter_occupied": 73
+  },
+  {
+    "geoid": 37119001802,
+    "market_share": 66,
+    "school_age_kids_in_tract": 568,
+    "test_sfh_pct": 47,
+    "median_gross_rent": 936,
+    "median_owner_cost_mortgage": 1301,
+    "percent_owner_occupied": 44,
+    "percent_renter_occupied": 56
+  },
+  {
+    "geoid": 37119001910,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1782,
+    "test_sfh_pct": 47,
+    "median_gross_rent": 992,
+    "median_owner_cost_mortgage": 1160,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119001911,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1471,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 1198,
+    "median_owner_cost_mortgage": 1113,
+    "percent_owner_occupied": 65,
+    "percent_renter_occupied": 35
+  },
+  {
+    "geoid": 37119001914,
+    "market_share": 76,
+    "school_age_kids_in_tract": 1109,
+    "test_sfh_pct": 59,
+    "median_gross_rent": 964,
+    "median_owner_cost_mortgage": 1348,
+    "percent_owner_occupied": 39,
+    "percent_renter_occupied": 61
+  },
+  {
+    "geoid": 37119001916,
+    "market_share": 58,
+    "school_age_kids_in_tract": 1459,
+    "test_sfh_pct": 68,
+    "median_gross_rent": 1215,
+    "median_owner_cost_mortgage": 1152,
+    "percent_owner_occupied": 65,
+    "percent_renter_occupied": 35
+  },
+  {
+    "geoid": 37119001917,
+    "market_share": 54,
+    "school_age_kids_in_tract": 1661,
+    "test_sfh_pct": 77,
+    "median_gross_rent": 1186,
+    "median_owner_cost_mortgage": 1095,
+    "percent_owner_occupied": 50,
+    "percent_renter_occupied": 50
+  },
+  {
+    "geoid": 37119001918,
+    "market_share": 98,
+    "school_age_kids_in_tract": 1159,
+    "test_sfh_pct": 12,
+    "median_gross_rent": 1079,
+    "median_owner_cost_mortgage": 1020,
+    "percent_owner_occupied": 25,
+    "percent_renter_occupied": 75
+  },
+  {
+    "geoid": 37119001919,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1383,
+    "test_sfh_pct": 63,
+    "median_gross_rent": 970,
+    "median_owner_cost_mortgage": 1226,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119001920,
+    "market_share": 74,
+    "school_age_kids_in_tract": 2732,
+    "test_sfh_pct": 71,
+    "median_gross_rent": 1310,
+    "median_owner_cost_mortgage": 1109,
+    "percent_owner_occupied": 62,
+    "percent_renter_occupied": 38
+  },
+  {
+    "geoid": 37119001921,
+    "market_share": 72,
+    "school_age_kids_in_tract": 804,
+    "test_sfh_pct": 98,
+    "median_gross_rent": 1229,
+    "median_owner_cost_mortgage": 984,
+    "percent_owner_occupied": 70,
+    "percent_renter_occupied": 30
+  },
+  {
+    "geoid": 37119001922,
+    "market_share": 65,
+    "school_age_kids_in_tract": 1973,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 1187,
+    "median_owner_cost_mortgage": 1271,
+    "percent_owner_occupied": 69,
+    "percent_renter_occupied": 31
+  },
+  {
+    "geoid": 37119001923,
+    "market_share": 74,
+    "school_age_kids_in_tract": 1483,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1287,
+    "median_owner_cost_mortgage": 1072,
+    "percent_owner_occupied": 44,
+    "percent_renter_occupied": 56
+  },
+  {
+    "geoid": 37119001924,
+    "market_share": 62,
+    "school_age_kids_in_tract": 608,
+    "test_sfh_pct": 43,
+    "median_gross_rent": 961,
+    "median_owner_cost_mortgage": 962,
+    "percent_owner_occupied": 39,
+    "percent_renter_occupied": 61
+  },
+  {
+    "geoid": 37119001925,
+    "market_share": 79,
+    "school_age_kids_in_tract": 1584,
+    "test_sfh_pct": 31,
+    "median_gross_rent": 1167,
+    "median_owner_cost_mortgage": 1039,
+    "percent_owner_occupied": 26,
+    "percent_renter_occupied": 74
+  },
+  {
+    "geoid": 37119001926,
+    "market_share": 68,
+    "school_age_kids_in_tract": 681,
+    "test_sfh_pct": 20,
+    "median_gross_rent": 1060,
+    "median_owner_cost_mortgage": 1290,
+    "percent_owner_occupied": 29,
+    "percent_renter_occupied": 71
+  },
+  {
+    "geoid": 37119001927,
+    "market_share": 85,
+    "school_age_kids_in_tract": 817,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 1115,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 0,
+    "percent_renter_occupied": 100
+  },
+  {
+    "geoid": 37119002004,
+    "market_share": 43,
+    "school_age_kids_in_tract": 1459,
+    "test_sfh_pct": 51,
+    "median_gross_rent": 1309,
+    "median_owner_cost_mortgage": 1994,
+    "percent_owner_occupied": 57,
+    "percent_renter_occupied": 43
+  },
+  {
+    "geoid": 37119002005,
+    "market_share": 39,
+    "school_age_kids_in_tract": 535,
+    "test_sfh_pct": 17,
+    "median_gross_rent": 1655,
+    "median_owner_cost_mortgage": 2584,
+    "percent_owner_occupied": 22,
+    "percent_renter_occupied": 78
+  },
+  {
+    "geoid": 37119002006,
+    "market_share": 45,
+    "school_age_kids_in_tract": 860,
+    "test_sfh_pct": 82,
+    "median_gross_rent": 1499,
+    "median_owner_cost_mortgage": 2387,
+    "percent_owner_occupied": 76,
+    "percent_renter_occupied": 24
+  },
+  {
+    "geoid": 37119002007,
+    "market_share": 93,
+    "school_age_kids_in_tract": 361,
+    "test_sfh_pct": 57,
+    "median_gross_rent": 833,
+    "median_owner_cost_mortgage": 1398,
+    "percent_owner_occupied": 50,
+    "percent_renter_occupied": 50
+  },
+  {
+    "geoid": 37119002008,
+    "market_share": 67,
+    "school_age_kids_in_tract": 526,
+    "test_sfh_pct": 98,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 1855,
+    "percent_owner_occupied": 98,
+    "percent_renter_occupied": 2
+  },
+  {
+    "geoid": 37119002100,
+    "market_share": 84,
+    "school_age_kids_in_tract": 645,
+    "test_sfh_pct": 38,
+    "median_gross_rent": 891,
+    "median_owner_cost_mortgage": 1754,
+    "percent_owner_occupied": 44,
+    "percent_renter_occupied": 56
+  },
+  {
+    "geoid": 37119002201,
+    "market_share": 63,
+    "school_age_kids_in_tract": 763,
+    "test_sfh_pct": 54,
+    "median_gross_rent": 1207,
+    "median_owner_cost_mortgage": 2718,
+    "percent_owner_occupied": 57,
+    "percent_renter_occupied": 43
+  },
+  {
+    "geoid": 37119002202,
+    "market_share": 59,
+    "school_age_kids_in_tract": 535,
+    "test_sfh_pct": 41,
+    "median_gross_rent": 1461,
+    "median_owner_cost_mortgage": 3213,
+    "percent_owner_occupied": 55,
+    "percent_renter_occupied": 45
+  },
+  {
+    "geoid": 37119002300,
+    "market_share": 72,
+    "school_age_kids_in_tract": 1401,
+    "test_sfh_pct": 30,
+    "median_gross_rent": 908,
+    "median_owner_cost_mortgage": 930,
+    "percent_owner_occupied": 20,
+    "percent_renter_occupied": 80
+  },
+  {
+    "geoid": 37119002400,
+    "market_share": 63,
+    "school_age_kids_in_tract": 372,
+    "test_sfh_pct": 20,
+    "median_gross_rent": 1316,
+    "median_owner_cost_mortgage": 2134,
+    "percent_owner_occupied": 33,
+    "percent_renter_occupied": 67
+  },
+  {
+    "geoid": 37119002500,
+    "market_share": 43,
+    "school_age_kids_in_tract": 226,
+    "test_sfh_pct": 15,
+    "median_gross_rent": 1482,
+    "median_owner_cost_mortgage": 2970,
+    "percent_owner_occupied": 26,
+    "percent_renter_occupied": 74
+  },
+  {
+    "geoid": 37119002600,
+    "market_share": 86,
+    "school_age_kids_in_tract": 168,
+    "test_sfh_pct": 30,
+    "median_gross_rent": 1383,
+    "median_owner_cost_mortgage": 1929,
+    "percent_owner_occupied": 42,
+    "percent_renter_occupied": 58
+  },
+  {
+    "geoid": 37119002701,
+    "market_share": 19,
+    "school_age_kids_in_tract": 476,
+    "test_sfh_pct": 54,
+    "median_gross_rent": 1364,
+    "median_owner_cost_mortgage": 4001,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119002702,
+    "market_share": 33,
+    "school_age_kids_in_tract": 1512,
+    "test_sfh_pct": 66,
+    "median_gross_rent": 1549,
+    "median_owner_cost_mortgage": 4001,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119002800,
+    "market_share": 26,
+    "school_age_kids_in_tract": 1031,
+    "test_sfh_pct": 80,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 4001,
+    "percent_owner_occupied": 94,
+    "percent_renter_occupied": 6
+  },
+  {
+    "geoid": 37119002903,
+    "market_share": 45,
+    "school_age_kids_in_tract": 763,
+    "test_sfh_pct": 39,
+    "median_gross_rent": 1385,
+    "median_owner_cost_mortgage": 4001,
+    "percent_owner_occupied": 50,
+    "percent_renter_occupied": 50
+  },
+  {
+    "geoid": 37119002905,
+    "market_share": 44,
+    "school_age_kids_in_tract": 861,
+    "test_sfh_pct": 56,
+    "median_gross_rent": 1770,
+    "median_owner_cost_mortgage": 4001,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119002907,
+    "market_share": 45,
+    "school_age_kids_in_tract": 1097,
+    "test_sfh_pct": 30,
+    "median_gross_rent": 1755,
+    "median_owner_cost_mortgage": 2571,
+    "percent_owner_occupied": 45,
+    "percent_renter_occupied": 55
+  },
+  {
+    "geoid": 37119002908,
+    "market_share": 59,
+    "school_age_kids_in_tract": 732,
+    "test_sfh_pct": 64,
+    "median_gross_rent": 1533,
+    "median_owner_cost_mortgage": 2337,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119002909,
+    "market_share": 47,
+    "school_age_kids_in_tract": 383,
+    "test_sfh_pct": 20,
+    "median_gross_rent": 1632,
+    "median_owner_cost_mortgage": 2325,
+    "percent_owner_occupied": 31,
+    "percent_renter_occupied": 69
+  },
+  {
+    "geoid": 37119002910,
+    "market_share": 78,
+    "school_age_kids_in_tract": 385,
+    "test_sfh_pct": 30,
+    "median_gross_rent": 1597,
+    "median_owner_cost_mortgage": 2355,
+    "percent_owner_occupied": 33,
+    "percent_renter_occupied": 67
+  },
+  {
+    "geoid": 37119003006,
+    "market_share": 73,
+    "school_age_kids_in_tract": 949,
+    "test_sfh_pct": 45,
+    "median_gross_rent": 1518,
+    "median_owner_cost_mortgage": 2036,
+    "percent_owner_occupied": 66,
+    "percent_renter_occupied": 34
+  },
+  {
+    "geoid": 37119003008,
+    "market_share": 41,
+    "school_age_kids_in_tract": 1895,
+    "test_sfh_pct": 59,
+    "median_gross_rent": 1146,
+    "median_owner_cost_mortgage": 2246,
+    "percent_owner_occupied": 59,
+    "percent_renter_occupied": 41
+  },
+  {
+    "geoid": 37119003012,
+    "market_share": 60,
+    "school_age_kids_in_tract": 1170,
+    "test_sfh_pct": 55,
+    "median_gross_rent": 1469,
+    "median_owner_cost_mortgage": 2111,
+    "percent_owner_occupied": 53,
+    "percent_renter_occupied": 47
+  },
+  {
+    "geoid": 37119003013,
+    "market_share": 65,
+    "school_age_kids_in_tract": 1250,
+    "test_sfh_pct": 86,
+    "median_gross_rent": 1214,
+    "median_owner_cost_mortgage": 2657,
+    "percent_owner_occupied": 95,
+    "percent_renter_occupied": 5
+  },
+  {
+    "geoid": 37119003015,
+    "market_share": 47,
+    "school_age_kids_in_tract": 1192,
+    "test_sfh_pct": 93,
+    "median_gross_rent": 1746,
+    "median_owner_cost_mortgage": 1911,
+    "percent_owner_occupied": 90,
+    "percent_renter_occupied": 10
+  },
+  {
+    "geoid": 37119003016,
+    "market_share": 71,
+    "school_age_kids_in_tract": 1337,
+    "test_sfh_pct": 38,
+    "median_gross_rent": 1448,
+    "median_owner_cost_mortgage": 2362,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119003017,
+    "market_share": 60,
+    "school_age_kids_in_tract": 856,
+    "test_sfh_pct": 81,
+    "median_gross_rent": 1168,
+    "median_owner_cost_mortgage": 2201,
+    "percent_owner_occupied": 86,
+    "percent_renter_occupied": 14
+  },
+  {
+    "geoid": 37119003018,
+    "market_share": 63,
+    "school_age_kids_in_tract": 458,
+    "test_sfh_pct": 47,
+    "median_gross_rent": 1394,
+    "median_owner_cost_mortgage": 1823,
+    "percent_owner_occupied": 63,
+    "percent_renter_occupied": 37
+  },
+  {
+    "geoid": 37119003019,
+    "market_share": 62,
+    "school_age_kids_in_tract": 537,
+    "test_sfh_pct": 82,
+    "median_gross_rent": 1151,
+    "median_owner_cost_mortgage": 2921,
+    "percent_owner_occupied": 89,
+    "percent_renter_occupied": 11
+  },
+  {
+    "geoid": 37119003020,
+    "market_share": 34,
+    "school_age_kids_in_tract": 1155,
+    "test_sfh_pct": 90,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 3391,
+    "percent_owner_occupied": 96,
+    "percent_renter_occupied": 4
+  },
+  {
+    "geoid": 37119003021,
+    "market_share": 29,
+    "school_age_kids_in_tract": 886,
+    "test_sfh_pct": 43,
+    "median_gross_rent": 1531,
+    "median_owner_cost_mortgage": 3101,
+    "percent_owner_occupied": 63,
+    "percent_renter_occupied": 37
+  },
+  {
+    "geoid": 37119003022,
+    "market_share": 32,
+    "school_age_kids_in_tract": 1177,
+    "test_sfh_pct": 73,
+    "median_gross_rent": 1958,
+    "median_owner_cost_mortgage": 2296,
+    "percent_owner_occupied": 87,
+    "percent_renter_occupied": 13
+  },
+  {
+    "geoid": 37119003102,
+    "market_share": 62,
+    "school_age_kids_in_tract": 604,
+    "test_sfh_pct": 48,
+    "median_gross_rent": 1184,
+    "median_owner_cost_mortgage": 1688,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119003105,
+    "market_share": 60,
+    "school_age_kids_in_tract": 687,
+    "test_sfh_pct": 66,
+    "median_gross_rent": 1488,
+    "median_owner_cost_mortgage": 1747,
+    "percent_owner_occupied": 86,
+    "percent_renter_occupied": 14
+  },
+  {
+    "geoid": 37119003106,
+    "market_share": 66,
+    "school_age_kids_in_tract": 1501,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1161,
+    "median_owner_cost_mortgage": 1589,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119003108,
+    "market_share": 72,
+    "school_age_kids_in_tract": 1015,
+    "test_sfh_pct": 35,
+    "median_gross_rent": 1135,
+    "median_owner_cost_mortgage": 1534,
+    "percent_owner_occupied": 34,
+    "percent_renter_occupied": 66
+  },
+  {
+    "geoid": 37119003109,
+    "market_share": 87,
+    "school_age_kids_in_tract": 1397,
+    "test_sfh_pct": 2,
+    "median_gross_rent": 1197,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 1,
+    "percent_renter_occupied": 99
+  },
+  {
+    "geoid": 37119003110,
+    "market_share": 89,
+    "school_age_kids_in_tract": 241,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 1826,
+    "median_owner_cost_mortgage": 1557,
+    "percent_owner_occupied": 78,
+    "percent_renter_occupied": 22
+  },
+  {
+    "geoid": 37119003111,
+    "market_share": 29,
+    "school_age_kids_in_tract": 842,
+    "test_sfh_pct": 31,
+    "median_gross_rent": 1640,
+    "median_owner_cost_mortgage": 1559,
+    "percent_owner_occupied": 49,
+    "percent_renter_occupied": 51
+  },
+  {
+    "geoid": 37119003201,
+    "market_share": 92,
+    "school_age_kids_in_tract": 589,
+    "test_sfh_pct": 74,
+    "median_gross_rent": 985,
+    "median_owner_cost_mortgage": 1564,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119003203,
+    "market_share": 62,
+    "school_age_kids_in_tract": 425,
+    "test_sfh_pct": 23,
+    "median_gross_rent": 1137,
+    "median_owner_cost_mortgage": 2102,
+    "percent_owner_occupied": 25,
+    "percent_renter_occupied": 75
+  },
+  {
+    "geoid": 37119003204,
+    "market_share": 79,
+    "school_age_kids_in_tract": 423,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 1340,
+    "median_owner_cost_mortgage": 1998,
+    "percent_owner_occupied": 66,
+    "percent_renter_occupied": 34
+  },
+  {
+    "geoid": 37119003301,
+    "market_share": 96,
+    "school_age_kids_in_tract": 104,
+    "test_sfh_pct": 13,
+    "median_gross_rent": 1494,
+    "median_owner_cost_mortgage": 1991,
+    "percent_owner_occupied": 12,
+    "percent_renter_occupied": 88
+  },
+  {
+    "geoid": 37119003302,
+    "market_share": 99,
+    "school_age_kids_in_tract": 371,
+    "test_sfh_pct": 53,
+    "median_gross_rent": 1598,
+    "median_owner_cost_mortgage": 2139,
+    "percent_owner_occupied": 61,
+    "percent_renter_occupied": 39
+  },
+  {
+    "geoid": 37119003401,
+    "market_share": 68,
+    "school_age_kids_in_tract": 239,
+    "test_sfh_pct": 20,
+    "median_gross_rent": 1858,
+    "median_owner_cost_mortgage": 1702,
+    "percent_owner_occupied": 42,
+    "percent_renter_occupied": 58
+  },
+  {
+    "geoid": 37119003402,
+    "market_share": 65,
+    "school_age_kids_in_tract": 885,
+    "test_sfh_pct": 58,
+    "median_gross_rent": 1611,
+    "median_owner_cost_mortgage": 2918,
+    "percent_owner_occupied": 68,
+    "percent_renter_occupied": 32
+  },
+  {
+    "geoid": 37119003500,
+    "market_share": 60,
+    "school_age_kids_in_tract": 237,
+    "test_sfh_pct": 33,
+    "median_gross_rent": 1631,
+    "median_owner_cost_mortgage": 2608,
+    "percent_owner_occupied": 61,
+    "percent_renter_occupied": 39
+  },
+  {
+    "geoid": 37119003600,
+    "market_share": 62,
+    "school_age_kids_in_tract": 540,
+    "test_sfh_pct": 50,
+    "median_gross_rent": 1396,
+    "median_owner_cost_mortgage": 1878,
+    "percent_owner_occupied": 36,
+    "percent_renter_occupied": 64
+  },
+  {
+    "geoid": 37119003701,
+    "market_share": 65,
+    "school_age_kids_in_tract": 49,
+    "test_sfh_pct": 1,
+    "median_gross_rent": 1515,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 0,
+    "percent_renter_occupied": 100
+  },
+  {
+    "geoid": 37119003702,
+    "market_share": 70,
+    "school_age_kids_in_tract": 648,
+    "test_sfh_pct": 7,
+    "median_gross_rent": 1412,
+    "median_owner_cost_mortgage": 1691,
+    "percent_owner_occupied": 9,
+    "percent_renter_occupied": 91
+  },
+  {
+    "geoid": 37119003802,
+    "market_share": 55,
+    "school_age_kids_in_tract": 956,
+    "test_sfh_pct": 61,
+    "median_gross_rent": 957,
+    "median_owner_cost_mortgage": 976,
+    "percent_owner_occupied": 36,
+    "percent_renter_occupied": 64
+  },
+  {
+    "geoid": 37119003805,
+    "market_share": 74,
+    "school_age_kids_in_tract": 585,
+    "test_sfh_pct": 11,
+    "median_gross_rent": 1341,
+    "median_owner_cost_mortgage": 1860,
+    "percent_owner_occupied": 18,
+    "percent_renter_occupied": 82
+  },
+  {
+    "geoid": 37119003807,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1779,
+    "test_sfh_pct": 52,
+    "median_gross_rent": 1158,
+    "median_owner_cost_mortgage": 1085,
+    "percent_owner_occupied": 36,
+    "percent_renter_occupied": 64
+  },
+  {
+    "geoid": 37119003808,
+    "market_share": 97,
+    "school_age_kids_in_tract": 2470,
+    "test_sfh_pct": 14,
+    "median_gross_rent": 1132,
+    "median_owner_cost_mortgage": 1199,
+    "percent_owner_occupied": 20,
+    "percent_renter_occupied": 80
+  },
+  {
+    "geoid": 37119003809,
+    "market_share": 78,
+    "school_age_kids_in_tract": 997,
+    "test_sfh_pct": 53,
+    "median_gross_rent": 1417,
+    "median_owner_cost_mortgage": 1134,
+    "percent_owner_occupied": 51,
+    "percent_renter_occupied": 49
+  },
+  {
+    "geoid": 37119003810,
+    "market_share": 60,
+    "school_age_kids_in_tract": 1360,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1264,
+    "median_owner_cost_mortgage": 951,
+    "percent_owner_occupied": 32,
+    "percent_renter_occupied": 68
+  },
+  {
+    "geoid": 37119003811,
+    "market_share": 62,
+    "school_age_kids_in_tract": 346,
+    "test_sfh_pct": 60,
+    "median_gross_rent": 1333,
+    "median_owner_cost_mortgage": 819,
+    "percent_owner_occupied": 40,
+    "percent_renter_occupied": 60
+  },
+  {
+    "geoid": 37119003902,
+    "market_share": 76,
+    "school_age_kids_in_tract": 1323,
+    "test_sfh_pct": 51,
+    "median_gross_rent": 945,
+    "median_owner_cost_mortgage": 922,
+    "percent_owner_occupied": 34,
+    "percent_renter_occupied": 66
+  },
+  {
+    "geoid": 37119003903,
+    "market_share": 62,
+    "school_age_kids_in_tract": 865,
+    "test_sfh_pct": 22,
+    "median_gross_rent": 579,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 6,
+    "percent_renter_occupied": 94
+  },
+  {
+    "geoid": 37119004000,
+    "market_share": 60,
+    "school_age_kids_in_tract": 1199,
+    "test_sfh_pct": 66,
+    "median_gross_rent": 1073,
+    "median_owner_cost_mortgage": 886,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119004101,
+    "market_share": 40,
+    "school_age_kids_in_tract": 363,
+    "test_sfh_pct": 27,
+    "median_gross_rent": 1372,
+    "median_owner_cost_mortgage": 1648,
+    "percent_owner_occupied": 34,
+    "percent_renter_occupied": 66
+  },
+  {
+    "geoid": 37119004102,
+    "market_share": 41,
+    "school_age_kids_in_tract": 448,
+    "test_sfh_pct": 36,
+    "median_gross_rent": 1466,
+    "median_owner_cost_mortgage": 2150,
+    "percent_owner_occupied": 45,
+    "percent_renter_occupied": 55
+  },
+  {
+    "geoid": 37119004200,
+    "market_share": 87,
+    "school_age_kids_in_tract": 571,
+    "test_sfh_pct": 73,
+    "median_gross_rent": 1078,
+    "median_owner_cost_mortgage": 1074,
+    "percent_owner_occupied": 35,
+    "percent_renter_occupied": 65
+  },
+  {
+    "geoid": 37119004302,
+    "market_share": 58,
+    "school_age_kids_in_tract": 1605,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 1029,
+    "median_owner_cost_mortgage": 876,
+    "percent_owner_occupied": 40,
+    "percent_renter_occupied": 60
+  },
+  {
+    "geoid": 37119004303,
+    "market_share": 62,
+    "school_age_kids_in_tract": 331,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1055,
+    "median_owner_cost_mortgage": 1039,
+    "percent_owner_occupied": 69,
+    "percent_renter_occupied": 31
+  },
+  {
+    "geoid": 37119004304,
+    "market_share": 57,
+    "school_age_kids_in_tract": 1531,
+    "test_sfh_pct": 77,
+    "median_gross_rent": 991,
+    "median_owner_cost_mortgage": 1101,
+    "percent_owner_occupied": 54,
+    "percent_renter_occupied": 46
+  },
+  {
+    "geoid": 37119004306,
+    "market_share": 80,
+    "school_age_kids_in_tract": 1064,
+    "test_sfh_pct": 26,
+    "median_gross_rent": 1014,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 3,
+    "percent_renter_occupied": 97
+  },
+  {
+    "geoid": 37119004307,
+    "market_share": 39,
+    "school_age_kids_in_tract": 1133,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1190,
+    "median_owner_cost_mortgage": 1199,
+    "percent_owner_occupied": 71,
+    "percent_renter_occupied": 29
+  },
+  {
+    "geoid": 37119004400,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1194,
+    "test_sfh_pct": 86,
+    "median_gross_rent": 1139,
+    "median_owner_cost_mortgage": 950,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119004500,
+    "market_share": 90,
+    "school_age_kids_in_tract": 665,
+    "test_sfh_pct": 76,
+    "median_gross_rent": 926,
+    "median_owner_cost_mortgage": 746,
+    "percent_owner_occupied": 57,
+    "percent_renter_occupied": 43
+  },
+  {
+    "geoid": 37119004600,
+    "market_share": 62,
+    "school_age_kids_in_tract": 492,
+    "test_sfh_pct": 80,
+    "median_gross_rent": 1100,
+    "median_owner_cost_mortgage": 883,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119004700,
+    "market_share": 41,
+    "school_age_kids_in_tract": 245,
+    "test_sfh_pct": 72,
+    "median_gross_rent": 941,
+    "median_owner_cost_mortgage": 1743,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119004800,
+    "market_share": 62,
+    "school_age_kids_in_tract": 589,
+    "test_sfh_pct": 75,
+    "median_gross_rent": 926,
+    "median_owner_cost_mortgage": 783,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119004900,
+    "market_share": 84,
+    "school_age_kids_in_tract": 131,
+    "test_sfh_pct": 94,
+    "median_gross_rent": 1125,
+    "median_owner_cost_mortgage": 1197,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119005000,
+    "market_share": 67,
+    "school_age_kids_in_tract": 647,
+    "test_sfh_pct": 38,
+    "median_gross_rent": 893,
+    "median_owner_cost_mortgage": 1590,
+    "percent_owner_occupied": 49,
+    "percent_renter_occupied": 51
+  },
+  {
+    "geoid": 37119005100,
+    "market_share": 62,
+    "school_age_kids_in_tract": 208,
+    "test_sfh_pct": 62,
+    "median_gross_rent": 915,
+    "median_owner_cost_mortgage": 821,
+    "percent_owner_occupied": 30,
+    "percent_renter_occupied": 70
+  },
+  {
+    "geoid": 37119005200,
+    "market_share": 73,
+    "school_age_kids_in_tract": 189,
+    "test_sfh_pct": 61,
+    "median_gross_rent": 894,
+    "median_owner_cost_mortgage": 943,
+    "percent_owner_occupied": 31,
+    "percent_renter_occupied": 69
+  },
+  {
+    "geoid": 37119005301,
+    "market_share": 45,
+    "school_age_kids_in_tract": 2150,
+    "test_sfh_pct": 41,
+    "median_gross_rent": 934,
+    "median_owner_cost_mortgage": 1217,
+    "percent_owner_occupied": 29,
+    "percent_renter_occupied": 71
+  },
+  {
+    "geoid": 37119005305,
+    "market_share": 94,
+    "school_age_kids_in_tract": 1590,
+    "test_sfh_pct": 69,
+    "median_gross_rent": 1071,
+    "median_owner_cost_mortgage": 1025,
+    "percent_owner_occupied": 39,
+    "percent_renter_occupied": 61
+  },
+  {
+    "geoid": 37119005306,
+    "market_share": 62,
+    "school_age_kids_in_tract": 778,
+    "test_sfh_pct": 56,
+    "median_gross_rent": 940,
+    "median_owner_cost_mortgage": 873,
+    "percent_owner_occupied": 48,
+    "percent_renter_occupied": 52
+  },
+  {
+    "geoid": 37119005307,
+    "market_share": 76,
+    "school_age_kids_in_tract": 1442,
+    "test_sfh_pct": 26,
+    "median_gross_rent": 1083,
+    "median_owner_cost_mortgage": 916,
+    "percent_owner_occupied": 12,
+    "percent_renter_occupied": 88
+  },
+  {
+    "geoid": 37119005308,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1449,
+    "test_sfh_pct": 12,
+    "median_gross_rent": 894,
+    "median_owner_cost_mortgage": 943,
+    "percent_owner_occupied": 7,
+    "percent_renter_occupied": 93
+  },
+  {
+    "geoid": 37119005403,
+    "market_share": 51,
+    "school_age_kids_in_tract": 1605,
+    "test_sfh_pct": 86,
+    "median_gross_rent": 1126,
+    "median_owner_cost_mortgage": 1115,
+    "percent_owner_occupied": 65,
+    "percent_renter_occupied": 35
+  },
+  {
+    "geoid": 37119005404,
+    "market_share": 89,
+    "school_age_kids_in_tract": 1144,
+    "test_sfh_pct": 82,
+    "median_gross_rent": 1171,
+    "median_owner_cost_mortgage": 1018,
+    "percent_owner_occupied": 57,
+    "percent_renter_occupied": 43
+  },
+  {
+    "geoid": 37119005405,
+    "market_share": 68,
+    "school_age_kids_in_tract": 658,
+    "test_sfh_pct": 75,
+    "median_gross_rent": 1252,
+    "median_owner_cost_mortgage": 1014,
+    "percent_owner_occupied": 64,
+    "percent_renter_occupied": 36
+  },
+  {
+    "geoid": 37119005406,
+    "market_share": 59,
+    "school_age_kids_in_tract": 922,
+    "test_sfh_pct": 76,
+    "median_gross_rent": 979,
+    "median_owner_cost_mortgage": 945,
+    "percent_owner_occupied": 53,
+    "percent_renter_occupied": 47
+  },
+  {
+    "geoid": 37119005508,
+    "market_share": 54,
+    "school_age_kids_in_tract": 888,
+    "test_sfh_pct": 94,
+    "median_gross_rent": 1734,
+    "median_owner_cost_mortgage": 1581,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005510,
+    "market_share": 74,
+    "school_age_kids_in_tract": 3173,
+    "test_sfh_pct": 69,
+    "median_gross_rent": 1281,
+    "median_owner_cost_mortgage": 1240,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119005511,
+    "market_share": 62,
+    "school_age_kids_in_tract": 615,
+    "test_sfh_pct": 11,
+    "median_gross_rent": 1280,
+    "median_owner_cost_mortgage": 1245,
+    "percent_owner_occupied": 32,
+    "percent_renter_occupied": 68
+  },
+  {
+    "geoid": 37119005512,
+    "market_share": 68,
+    "school_age_kids_in_tract": 1754,
+    "test_sfh_pct": 83,
+    "median_gross_rent": 1397,
+    "median_owner_cost_mortgage": 1169,
+    "percent_owner_occupied": 68,
+    "percent_renter_occupied": 32
+  },
+  {
+    "geoid": 37119005513,
+    "market_share": 55,
+    "school_age_kids_in_tract": 790,
+    "test_sfh_pct": 96,
+    "median_gross_rent": 1798,
+    "median_owner_cost_mortgage": 1410,
+    "percent_owner_occupied": 83,
+    "percent_renter_occupied": 17
+  },
+  {
+    "geoid": 37119005515,
+    "market_share": 83,
+    "school_age_kids_in_tract": 461,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 1679,
+    "median_owner_cost_mortgage": 1541,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005516,
+    "market_share": 41,
+    "school_age_kids_in_tract": 548,
+    "test_sfh_pct": 100,
+    "median_gross_rent": 1828,
+    "median_owner_cost_mortgage": 1617,
+    "percent_owner_occupied": 86,
+    "percent_renter_occupied": 14
+  },
+  {
+    "geoid": 37119005517,
+    "market_share": 60,
+    "school_age_kids_in_tract": 792,
+    "test_sfh_pct": 84,
+    "median_gross_rent": 1894,
+    "median_owner_cost_mortgage": 1669,
+    "percent_owner_occupied": 77,
+    "percent_renter_occupied": 23
+  },
+  {
+    "geoid": 37119005519,
+    "market_share": 59,
+    "school_age_kids_in_tract": 1943,
+    "test_sfh_pct": 48,
+    "median_gross_rent": 1334,
+    "median_owner_cost_mortgage": 1642,
+    "percent_owner_occupied": 49,
+    "percent_renter_occupied": 51
+  },
+  {
+    "geoid": 37119005520,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1303,
+    "test_sfh_pct": 96,
+    "median_gross_rent": 1952,
+    "median_owner_cost_mortgage": 1888,
+    "percent_owner_occupied": 90,
+    "percent_renter_occupied": 10
+  },
+  {
+    "geoid": 37119005522,
+    "market_share": 61,
+    "school_age_kids_in_tract": 1084,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1376,
+    "median_owner_cost_mortgage": 1414,
+    "percent_owner_occupied": 32,
+    "percent_renter_occupied": 68
+  },
+  {
+    "geoid": 37119005525,
+    "market_share": 52,
+    "school_age_kids_in_tract": 1081,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 1515,
+    "median_owner_cost_mortgage": 1340,
+    "percent_owner_occupied": 58,
+    "percent_renter_occupied": 42
+  },
+  {
+    "geoid": 37119005526,
+    "market_share": 62,
+    "school_age_kids_in_tract": 407,
+    "test_sfh_pct": 86,
+    "median_gross_rent": 1877,
+    "median_owner_cost_mortgage": 1575,
+    "percent_owner_occupied": 90,
+    "percent_renter_occupied": 10
+  },
+  {
+    "geoid": 37119005527,
+    "market_share": 43,
+    "school_age_kids_in_tract": 764,
+    "test_sfh_pct": 54,
+    "median_gross_rent": 1103,
+    "median_owner_cost_mortgage": 1570,
+    "percent_owner_occupied": 56,
+    "percent_renter_occupied": 44
+  },
+  {
+    "geoid": 37119005528,
+    "market_share": 82,
+    "school_age_kids_in_tract": 882,
+    "test_sfh_pct": 47,
+    "median_gross_rent": 1231,
+    "median_owner_cost_mortgage": 1575,
+    "percent_owner_occupied": 51,
+    "percent_renter_occupied": 49
+  },
+  {
+    "geoid": 37119005529,
+    "market_share": 62,
+    "school_age_kids_in_tract": 390,
+    "test_sfh_pct": 43,
+    "median_gross_rent": 1603,
+    "median_owner_cost_mortgage": 1620,
+    "percent_owner_occupied": 33,
+    "percent_renter_occupied": 67
+  },
+  {
+    "geoid": 37119005530,
+    "market_share": 77,
+    "school_age_kids_in_tract": 828,
+    "test_sfh_pct": 72,
+    "median_gross_rent": 1547,
+    "median_owner_cost_mortgage": 1658,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119005531,
+    "market_share": 42,
+    "school_age_kids_in_tract": 1513,
+    "test_sfh_pct": 61,
+    "median_gross_rent": 1238,
+    "median_owner_cost_mortgage": 1605,
+    "percent_owner_occupied": 57,
+    "percent_renter_occupied": 43
+  },
+  {
+    "geoid": 37119005532,
+    "market_share": 55,
+    "school_age_kids_in_tract": 523,
+    "test_sfh_pct": 2,
+    "median_gross_rent": 1222,
+    "median_owner_cost_mortgage": 1522,
+    "percent_owner_occupied": 19,
+    "percent_renter_occupied": 81
+  },
+  {
+    "geoid": 37119005533,
+    "market_share": 62,
+    "school_age_kids_in_tract": 178,
+    "test_sfh_pct": 11,
+    "median_gross_rent": 1366,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 12,
+    "percent_renter_occupied": 88
+  },
+  {
+    "geoid": 37119005534,
+    "market_share": 45,
+    "school_age_kids_in_tract": 833,
+    "test_sfh_pct": 2,
+    "median_gross_rent": 1242,
+    "median_owner_cost_mortgage": 1347,
+    "percent_owner_occupied": 5,
+    "percent_renter_occupied": 95
+  },
+  {
+    "geoid": 37119005535,
+    "market_share": 69,
+    "school_age_kids_in_tract": 878,
+    "test_sfh_pct": 34,
+    "median_gross_rent": 1220,
+    "median_owner_cost_mortgage": 1295,
+    "percent_owner_occupied": 23,
+    "percent_renter_occupied": 77
+  },
+  {
+    "geoid": 37119005536,
+    "market_share": 88,
+    "school_age_kids_in_tract": 854,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 1440,
+    "median_owner_cost_mortgage": 1172,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119005604,
+    "market_share": 15,
+    "school_age_kids_in_tract": 38,
+    "test_sfh_pct": 25,
+    "median_gross_rent": 826,
+    "median_owner_cost_mortgage": 1333,
+    "percent_owner_occupied": 21,
+    "percent_renter_occupied": 79
+  },
+  {
+    "geoid": 37119005609,
+    "market_share": 88,
+    "school_age_kids_in_tract": 301,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 875,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 6,
+    "percent_renter_occupied": 94
+  },
+  {
+    "geoid": 37119005610,
+    "market_share": 62,
+    "school_age_kids_in_tract": 490,
+    "test_sfh_pct": 53,
+    "median_gross_rent": 1077,
+    "median_owner_cost_mortgage": 1250,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119005611,
+    "market_share": 66,
+    "school_age_kids_in_tract": 687,
+    "test_sfh_pct": 64,
+    "median_gross_rent": 1293,
+    "median_owner_cost_mortgage": 1253,
+    "percent_owner_occupied": 56,
+    "percent_renter_occupied": 44
+  },
+  {
+    "geoid": 37119005612,
+    "market_share": 77,
+    "school_age_kids_in_tract": 1348,
+    "test_sfh_pct": 73,
+    "median_gross_rent": 1437,
+    "median_owner_cost_mortgage": 1256,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119005613,
+    "market_share": 57,
+    "school_age_kids_in_tract": 1205,
+    "test_sfh_pct": 78,
+    "median_gross_rent": 1293,
+    "median_owner_cost_mortgage": 1743,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119005615,
+    "market_share": 63,
+    "school_age_kids_in_tract": 640,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1837,
+    "median_owner_cost_mortgage": 1671,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005616,
+    "market_share": 56,
+    "school_age_kids_in_tract": 893,
+    "test_sfh_pct": 77,
+    "median_gross_rent": 1744,
+    "median_owner_cost_mortgage": 1122,
+    "percent_owner_occupied": 61,
+    "percent_renter_occupied": 39
+  },
+  {
+    "geoid": 37119005617,
+    "market_share": 62,
+    "school_age_kids_in_tract": 681,
+    "test_sfh_pct": 99,
+    "median_gross_rent": 1217,
+    "median_owner_cost_mortgage": 1290,
+    "percent_owner_occupied": 91,
+    "percent_renter_occupied": 9
+  },
+  {
+    "geoid": 37119005618,
+    "market_share": 55,
+    "school_age_kids_in_tract": 777,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1562,
+    "median_owner_cost_mortgage": 1630,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005619,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1342,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1614,
+    "median_owner_cost_mortgage": 1348,
+    "percent_owner_occupied": 86,
+    "percent_renter_occupied": 14
+  },
+  {
+    "geoid": 37119005621,
+    "market_share": 51,
+    "school_age_kids_in_tract": 1766,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1537,
+    "median_owner_cost_mortgage": 1445,
+    "percent_owner_occupied": 79,
+    "percent_renter_occupied": 21
+  },
+  {
+    "geoid": 37119005622,
+    "market_share": 70,
+    "school_age_kids_in_tract": 480,
+    "test_sfh_pct": 18,
+    "median_gross_rent": 902,
+    "median_owner_cost_mortgage": 1153,
+    "percent_owner_occupied": 16,
+    "percent_renter_occupied": 84
+  },
+  {
+    "geoid": 37119005623,
+    "market_share": 61,
+    "school_age_kids_in_tract": 530,
+    "test_sfh_pct": 21,
+    "median_gross_rent": 1216,
+    "median_owner_cost_mortgage": 1603,
+    "percent_owner_occupied": 18,
+    "percent_renter_occupied": 82
+  },
+  {
+    "geoid": 37119005624,
+    "market_share": 62,
+    "school_age_kids_in_tract": 465,
+    "test_sfh_pct": 93,
+    "median_gross_rent": 1693,
+    "median_owner_cost_mortgage": 1334,
+    "percent_owner_occupied": 85,
+    "percent_renter_occupied": 15
+  },
+  {
+    "geoid": 37119005625,
+    "market_share": 45,
+    "school_age_kids_in_tract": 1242,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 1811,
+    "median_owner_cost_mortgage": 1455,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005626,
+    "market_share": 72,
+    "school_age_kids_in_tract": 953,
+    "test_sfh_pct": 98,
+    "median_gross_rent": 1498,
+    "median_owner_cost_mortgage": 1406,
+    "percent_owner_occupied": 78,
+    "percent_renter_occupied": 22
+  },
+  {
+    "geoid": 37119005627,
+    "market_share": 61,
+    "school_age_kids_in_tract": 3053,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1456,
+    "median_owner_cost_mortgage": 1347,
+    "percent_owner_occupied": 79,
+    "percent_renter_occupied": 21
+  },
+  {
+    "geoid": 37119005709,
+    "market_share": 64,
+    "school_age_kids_in_tract": 614,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1458,
+    "median_owner_cost_mortgage": 1628,
+    "percent_owner_occupied": 53,
+    "percent_renter_occupied": 47
+  },
+  {
+    "geoid": 37119005710,
+    "market_share": 81,
+    "school_age_kids_in_tract": 1173,
+    "test_sfh_pct": 57,
+    "median_gross_rent": 1098,
+    "median_owner_cost_mortgage": 1232,
+    "percent_owner_occupied": 48,
+    "percent_renter_occupied": 52
+  },
+  {
+    "geoid": 37119005712,
+    "market_share": 77,
+    "school_age_kids_in_tract": 749,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1453,
+    "median_owner_cost_mortgage": 1444,
+    "percent_owner_occupied": 90,
+    "percent_renter_occupied": 10
+  },
+  {
+    "geoid": 37119005713,
+    "market_share": 59,
+    "school_age_kids_in_tract": 1055,
+    "test_sfh_pct": 94,
+    "median_gross_rent": 1411,
+    "median_owner_cost_mortgage": 1842,
+    "percent_owner_occupied": 92,
+    "percent_renter_occupied": 8
+  },
+  {
+    "geoid": 37119005714,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1219,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1398,
+    "median_owner_cost_mortgage": 2012,
+    "percent_owner_occupied": 93,
+    "percent_renter_occupied": 7
+  },
+  {
+    "geoid": 37119005715,
+    "market_share": 46,
+    "school_age_kids_in_tract": 702,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1155,
+    "median_owner_cost_mortgage": 1581,
+    "percent_owner_occupied": 93,
+    "percent_renter_occupied": 7
+  },
+  {
+    "geoid": 37119005716,
+    "market_share": 53,
+    "school_age_kids_in_tract": 1617,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 1380,
+    "median_owner_cost_mortgage": 1343,
+    "percent_owner_occupied": 78,
+    "percent_renter_occupied": 22
+  },
+  {
+    "geoid": 37119005718,
+    "market_share": 58,
+    "school_age_kids_in_tract": 629,
+    "test_sfh_pct": 90,
+    "median_gross_rent": 1398,
+    "median_owner_cost_mortgage": 1350,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005719,
+    "market_share": 79,
+    "school_age_kids_in_tract": 516,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 862,
+    "median_owner_cost_mortgage": 1488,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005720,
+    "market_share": 56,
+    "school_age_kids_in_tract": 344,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 1131,
+    "median_owner_cost_mortgage": 1765,
+    "percent_owner_occupied": 83,
+    "percent_renter_occupied": 17
+  },
+  {
+    "geoid": 37119005721,
+    "market_share": 57,
+    "school_age_kids_in_tract": 499,
+    "test_sfh_pct": 71,
+    "median_gross_rent": 2006,
+    "median_owner_cost_mortgage": 1462,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119005722,
+    "market_share": 62,
+    "school_age_kids_in_tract": 441,
+    "test_sfh_pct": 96,
+    "median_gross_rent": 1628,
+    "median_owner_cost_mortgage": 1445,
+    "percent_owner_occupied": 91,
+    "percent_renter_occupied": 9
+  },
+  {
+    "geoid": 37119005723,
+    "market_share": 62,
+    "school_age_kids_in_tract": 762,
+    "test_sfh_pct": 29,
+    "median_gross_rent": 1308,
+    "median_owner_cost_mortgage": 1161,
+    "percent_owner_occupied": 35,
+    "percent_renter_occupied": 65
+  },
+  {
+    "geoid": 37119005811,
+    "market_share": 33,
+    "school_age_kids_in_tract": 1071,
+    "test_sfh_pct": 75,
+    "median_gross_rent": 1344,
+    "median_owner_cost_mortgage": 1246,
+    "percent_owner_occupied": 79,
+    "percent_renter_occupied": 21
+  },
+  {
+    "geoid": 37119005815,
+    "market_share": 51,
+    "school_age_kids_in_tract": 771,
+    "test_sfh_pct": 51,
+    "median_gross_rent": 1285,
+    "median_owner_cost_mortgage": 2367,
+    "percent_owner_occupied": 66,
+    "percent_renter_occupied": 34
+  },
+  {
+    "geoid": 37119005816,
+    "market_share": 51,
+    "school_age_kids_in_tract": 833,
+    "test_sfh_pct": 71,
+    "median_gross_rent": 1383,
+    "median_owner_cost_mortgage": 2561,
+    "percent_owner_occupied": 81,
+    "percent_renter_occupied": 19
+  },
+  {
+    "geoid": 37119005817,
+    "market_share": 61,
+    "school_age_kids_in_tract": 1149,
+    "test_sfh_pct": 70,
+    "median_gross_rent": 1589,
+    "median_owner_cost_mortgage": 2247,
+    "percent_owner_occupied": 81,
+    "percent_renter_occupied": 19
+  },
+  {
+    "geoid": 37119005824,
+    "market_share": 76,
+    "school_age_kids_in_tract": 1826,
+    "test_sfh_pct": 58,
+    "median_gross_rent": 1256,
+    "median_owner_cost_mortgage": 1831,
+    "percent_owner_occupied": 63,
+    "percent_renter_occupied": 37
+  },
+  {
+    "geoid": 37119005826,
+    "market_share": 70,
+    "school_age_kids_in_tract": 663,
+    "test_sfh_pct": 78,
+    "median_gross_rent": 1611,
+    "median_owner_cost_mortgage": 1219,
+    "percent_owner_occupied": 67,
+    "percent_renter_occupied": 33
+  },
+  {
+    "geoid": 37119005827,
+    "market_share": 62,
+    "school_age_kids_in_tract": 396,
+    "test_sfh_pct": 22,
+    "median_gross_rent": 1147,
+    "median_owner_cost_mortgage": 989,
+    "percent_owner_occupied": 36,
+    "percent_renter_occupied": 64
+  },
+  {
+    "geoid": 37119005828,
+    "market_share": 34,
+    "school_age_kids_in_tract": 731,
+    "test_sfh_pct": 51,
+    "median_gross_rent": 1313,
+    "median_owner_cost_mortgage": 1515,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119005829,
+    "market_share": 62,
+    "school_age_kids_in_tract": 464,
+    "test_sfh_pct": 1,
+    "median_gross_rent": 1153,
+    "median_owner_cost_mortgage": 1375,
+    "percent_owner_occupied": 11,
+    "percent_renter_occupied": 89
+  },
+  {
+    "geoid": 37119005830,
+    "market_share": 60,
+    "school_age_kids_in_tract": 832,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 1313,
+    "median_owner_cost_mortgage": 1213,
+    "percent_owner_occupied": 74,
+    "percent_renter_occupied": 26
+  },
+  {
+    "geoid": 37119005832,
+    "market_share": 55,
+    "school_age_kids_in_tract": 1003,
+    "test_sfh_pct": 68,
+    "median_gross_rent": 1298,
+    "median_owner_cost_mortgage": 2906,
+    "percent_owner_occupied": 69,
+    "percent_renter_occupied": 31
+  },
+  {
+    "geoid": 37119005833,
+    "market_share": 48,
+    "school_age_kids_in_tract": 1028,
+    "test_sfh_pct": 72,
+    "median_gross_rent": 2865,
+    "median_owner_cost_mortgage": 1895,
+    "percent_owner_occupied": 77,
+    "percent_renter_occupied": 23
+  },
+  {
+    "geoid": 37119005834,
+    "market_share": 73,
+    "school_age_kids_in_tract": 1057,
+    "test_sfh_pct": 84,
+    "median_gross_rent": 1403,
+    "median_owner_cost_mortgage": 1687,
+    "percent_owner_occupied": 62,
+    "percent_renter_occupied": 38
+  },
+  {
+    "geoid": 37119005835,
+    "market_share": 57,
+    "school_age_kids_in_tract": 691,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 1100,
+    "median_owner_cost_mortgage": 1656,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005836,
+    "market_share": 62,
+    "school_age_kids_in_tract": 735,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 2040,
+    "median_owner_cost_mortgage": 1389,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005839,
+    "market_share": 71,
+    "school_age_kids_in_tract": 486,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1262,
+    "median_owner_cost_mortgage": 1963,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119005840,
+    "market_share": 87,
+    "school_age_kids_in_tract": 456,
+    "test_sfh_pct": 62,
+    "median_gross_rent": 1685,
+    "median_owner_cost_mortgage": 2084,
+    "percent_owner_occupied": 65,
+    "percent_renter_occupied": 35
+  },
+  {
+    "geoid": 37119005843,
+    "market_share": 73,
+    "school_age_kids_in_tract": 881,
+    "test_sfh_pct": 72,
+    "median_gross_rent": 1862,
+    "median_owner_cost_mortgage": 2031,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119005845,
+    "market_share": 86,
+    "school_age_kids_in_tract": 1483,
+    "test_sfh_pct": 55,
+    "median_gross_rent": 1745,
+    "median_owner_cost_mortgage": 2165,
+    "percent_owner_occupied": 62,
+    "percent_renter_occupied": 38
+  },
+  {
+    "geoid": 37119005846,
+    "market_share": 56,
+    "school_age_kids_in_tract": 1037,
+    "test_sfh_pct": 93,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 2817,
+    "percent_owner_occupied": 100,
+    "percent_renter_occupied": 0
+  },
+  {
+    "geoid": 37119005847,
+    "market_share": 50,
+    "school_age_kids_in_tract": 1254,
+    "test_sfh_pct": 65,
+    "median_gross_rent": 1712,
+    "median_owner_cost_mortgage": 2413,
+    "percent_owner_occupied": 77,
+    "percent_renter_occupied": 23
+  },
+  {
+    "geoid": 37119005848,
+    "market_share": 61,
+    "school_age_kids_in_tract": 1351,
+    "test_sfh_pct": 96,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 2350,
+    "percent_owner_occupied": 98,
+    "percent_renter_occupied": 2
+  },
+  {
+    "geoid": 37119005849,
+    "market_share": 73,
+    "school_age_kids_in_tract": 723,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 1946,
+    "median_owner_cost_mortgage": 1932,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005850,
+    "market_share": 62,
+    "school_age_kids_in_tract": 395,
+    "test_sfh_pct": 45,
+    "median_gross_rent": 1714,
+    "median_owner_cost_mortgage": 3107,
+    "percent_owner_occupied": 45,
+    "percent_renter_occupied": 55
+  },
+  {
+    "geoid": 37119005851,
+    "market_share": 80,
+    "school_age_kids_in_tract": 1182,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 1773,
+    "median_owner_cost_mortgage": 1888,
+    "percent_owner_occupied": 84,
+    "percent_renter_occupied": 16
+  },
+  {
+    "geoid": 37119005852,
+    "market_share": 62,
+    "school_age_kids_in_tract": 188,
+    "test_sfh_pct": 36,
+    "median_gross_rent": 1182,
+    "median_owner_cost_mortgage": 2027,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119005853,
+    "market_share": 42,
+    "school_age_kids_in_tract": 335,
+    "test_sfh_pct": 10,
+    "median_gross_rent": 1248,
+    "median_owner_cost_mortgage": 1188,
+    "percent_owner_occupied": 25,
+    "percent_renter_occupied": 75
+  },
+  {
+    "geoid": 37119005854,
+    "market_share": 62,
+    "school_age_kids_in_tract": 338,
+    "test_sfh_pct": 37,
+    "median_gross_rent": 1550,
+    "median_owner_cost_mortgage": 2136,
+    "percent_owner_occupied": 27,
+    "percent_renter_occupied": 73
+  },
+  {
+    "geoid": 37119005855,
+    "market_share": 69,
+    "school_age_kids_in_tract": 1332,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1666,
+    "median_owner_cost_mortgage": 2278,
+    "percent_owner_occupied": 66,
+    "percent_renter_occupied": 34
+  },
+  {
+    "geoid": 37119005856,
+    "market_share": 62,
+    "school_age_kids_in_tract": 582,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1750,
+    "median_owner_cost_mortgage": 2159,
+    "percent_owner_occupied": 61,
+    "percent_renter_occupied": 39
+  },
+  {
+    "geoid": 37119005857,
+    "market_share": 62,
+    "school_age_kids_in_tract": 237,
+    "test_sfh_pct": 22,
+    "median_gross_rent": 1454,
+    "median_owner_cost_mortgage": 1680,
+    "percent_owner_occupied": 85,
+    "percent_renter_occupied": 15
+  },
+  {
+    "geoid": 37119005858,
+    "market_share": 92,
+    "school_age_kids_in_tract": 1570,
+    "test_sfh_pct": 35,
+    "median_gross_rent": 1752,
+    "median_owner_cost_mortgage": 1598,
+    "percent_owner_occupied": 41,
+    "percent_renter_occupied": 59
+  },
+  {
+    "geoid": 37119005859,
+    "market_share": 95,
+    "school_age_kids_in_tract": 591,
+    "test_sfh_pct": 46,
+    "median_gross_rent": 1664,
+    "median_owner_cost_mortgage": 2294,
+    "percent_owner_occupied": 62,
+    "percent_renter_occupied": 38
+  },
+  {
+    "geoid": 37119005860,
+    "market_share": 72,
+    "school_age_kids_in_tract": 1330,
+    "test_sfh_pct": 47,
+    "median_gross_rent": 1634,
+    "median_owner_cost_mortgage": 2830,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119005861,
+    "market_share": 62,
+    "school_age_kids_in_tract": 642,
+    "test_sfh_pct": 60,
+    "median_gross_rent": 1711,
+    "median_owner_cost_mortgage": 1575,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119005862,
+    "market_share": 73,
+    "school_age_kids_in_tract": 581,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1944,
+    "median_owner_cost_mortgage": 1862,
+    "percent_owner_occupied": 85,
+    "percent_renter_occupied": 15
+  },
+  {
+    "geoid": 37119005863,
+    "market_share": 73,
+    "school_age_kids_in_tract": 1243,
+    "test_sfh_pct": 78,
+    "median_gross_rent": 1832,
+    "median_owner_cost_mortgage": 1964,
+    "percent_owner_occupied": 71,
+    "percent_renter_occupied": 29
+  },
+  {
+    "geoid": 37119005864,
+    "market_share": 89,
+    "school_age_kids_in_tract": 1089,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 1836,
+    "median_owner_cost_mortgage": 2431,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119005865,
+    "market_share": 77,
+    "school_age_kids_in_tract": 417,
+    "test_sfh_pct": 66,
+    "median_gross_rent": 1159,
+    "median_owner_cost_mortgage": 1957,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119005866,
+    "market_share": 62,
+    "school_age_kids_in_tract": 619,
+    "test_sfh_pct": 0,
+    "median_gross_rent": 1257,
+    "median_owner_cost_mortgage": 957,
+    "percent_owner_occupied": 2,
+    "percent_renter_occupied": 98
+  },
+  {
+    "geoid": 37119005867,
+    "market_share": 62,
+    "school_age_kids_in_tract": 662,
+    "test_sfh_pct": 18,
+    "median_gross_rent": 1372,
+    "median_owner_cost_mortgage": 1261,
+    "percent_owner_occupied": 32,
+    "percent_renter_occupied": 68
+  },
+  {
+    "geoid": 37119005868,
+    "market_share": 28,
+    "school_age_kids_in_tract": 556,
+    "test_sfh_pct": 53,
+    "median_gross_rent": 1041,
+    "median_owner_cost_mortgage": 1160,
+    "percent_owner_occupied": 61,
+    "percent_renter_occupied": 39
+  },
+  {
+    "geoid": 37119005908,
+    "market_share": 90,
+    "school_age_kids_in_tract": 269,
+    "test_sfh_pct": 79,
+    "median_gross_rent": 885,
+    "median_owner_cost_mortgage": 2252,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005910,
+    "market_share": 58,
+    "school_age_kids_in_tract": 1600,
+    "test_sfh_pct": 52,
+    "median_gross_rent": 1359,
+    "median_owner_cost_mortgage": 1519,
+    "percent_owner_occupied": 40,
+    "percent_renter_occupied": 60
+  },
+  {
+    "geoid": 37119005913,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1512,
+    "test_sfh_pct": 75,
+    "median_gross_rent": 1303,
+    "median_owner_cost_mortgage": 1257,
+    "percent_owner_occupied": 69,
+    "percent_renter_occupied": 31
+  },
+  {
+    "geoid": 37119005915,
+    "market_share": 65,
+    "school_age_kids_in_tract": 382,
+    "test_sfh_pct": 3,
+    "median_gross_rent": 1426,
+    "median_owner_cost_mortgage": 1642,
+    "percent_owner_occupied": 14,
+    "percent_renter_occupied": 86
+  },
+  {
+    "geoid": 37119005916,
+    "market_share": 80,
+    "school_age_kids_in_tract": 799,
+    "test_sfh_pct": 42,
+    "median_gross_rent": 1128,
+    "median_owner_cost_mortgage": 1009,
+    "percent_owner_occupied": 29,
+    "percent_renter_occupied": 71
+  },
+  {
+    "geoid": 37119005918,
+    "market_share": 66,
+    "school_age_kids_in_tract": 1620,
+    "test_sfh_pct": 99,
+    "median_gross_rent": 1689,
+    "median_owner_cost_mortgage": 1545,
+    "percent_owner_occupied": 80,
+    "percent_renter_occupied": 20
+  },
+  {
+    "geoid": 37119005919,
+    "market_share": 55,
+    "school_age_kids_in_tract": 988,
+    "test_sfh_pct": 55,
+    "median_gross_rent": 735,
+    "median_owner_cost_mortgage": 1515,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119005920,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1115,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 790,
+    "median_owner_cost_mortgage": 1334,
+    "percent_owner_occupied": 44,
+    "percent_renter_occupied": 56
+  },
+  {
+    "geoid": 37119005921,
+    "market_share": 61,
+    "school_age_kids_in_tract": 735,
+    "test_sfh_pct": 52,
+    "median_gross_rent": 1619,
+    "median_owner_cost_mortgage": 2041,
+    "percent_owner_occupied": 60,
+    "percent_renter_occupied": 40
+  },
+  {
+    "geoid": 37119005922,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1178,
+    "test_sfh_pct": 89,
+    "median_gross_rent": 1998,
+    "median_owner_cost_mortgage": 1817,
+    "percent_owner_occupied": 84,
+    "percent_renter_occupied": 16
+  },
+  {
+    "geoid": 37119005923,
+    "market_share": 58,
+    "school_age_kids_in_tract": 1552,
+    "test_sfh_pct": 52,
+    "median_gross_rent": 1445,
+    "median_owner_cost_mortgage": 1638,
+    "percent_owner_occupied": 42,
+    "percent_renter_occupied": 58
+  },
+  {
+    "geoid": 37119005924,
+    "market_share": 59,
+    "school_age_kids_in_tract": 1844,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 1737,
+    "median_owner_cost_mortgage": 1828,
+    "percent_owner_occupied": 79,
+    "percent_renter_occupied": 21
+  },
+  {
+    "geoid": 37119005925,
+    "market_share": 67,
+    "school_age_kids_in_tract": 952,
+    "test_sfh_pct": 100,
+    "median_gross_rent": 2267,
+    "median_owner_cost_mortgage": 1767,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119005926,
+    "market_share": 76,
+    "school_age_kids_in_tract": 1630,
+    "test_sfh_pct": 99,
+    "median_gross_rent": 3075,
+    "median_owner_cost_mortgage": 2470,
+    "percent_owner_occupied": 92,
+    "percent_renter_occupied": 8
+  },
+  {
+    "geoid": 37119005927,
+    "market_share": 51,
+    "school_age_kids_in_tract": 1609,
+    "test_sfh_pct": 36,
+    "median_gross_rent": 1474,
+    "median_owner_cost_mortgage": 1218,
+    "percent_owner_occupied": 42,
+    "percent_renter_occupied": 58
+  },
+  {
+    "geoid": 37119005928,
+    "market_share": 75,
+    "school_age_kids_in_tract": 263,
+    "test_sfh_pct": 94,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 1235,
+    "percent_owner_occupied": 85,
+    "percent_renter_occupied": 15
+  },
+  {
+    "geoid": 37119005929,
+    "market_share": 55,
+    "school_age_kids_in_tract": 914,
+    "test_sfh_pct": 40,
+    "median_gross_rent": 1617,
+    "median_owner_cost_mortgage": 1554,
+    "percent_owner_occupied": 71,
+    "percent_renter_occupied": 29
+  },
+  {
+    "geoid": 37119005930,
+    "market_share": 80,
+    "school_age_kids_in_tract": 589,
+    "test_sfh_pct": 26,
+    "median_gross_rent": 1330,
+    "median_owner_cost_mortgage": 1521,
+    "percent_owner_occupied": 38,
+    "percent_renter_occupied": 62
+  },
+  {
+    "geoid": 37119005931,
+    "market_share": 88,
+    "school_age_kids_in_tract": 719,
+    "test_sfh_pct": 53,
+    "median_gross_rent": 1324,
+    "median_owner_cost_mortgage": 1548,
+    "percent_owner_occupied": 64,
+    "percent_renter_occupied": 36
+  },
+  {
+    "geoid": 37119005932,
+    "market_share": 64,
+    "school_age_kids_in_tract": 633,
+    "test_sfh_pct": 44,
+    "median_gross_rent": 1276,
+    "median_owner_cost_mortgage": 1543,
+    "percent_owner_occupied": 71,
+    "percent_renter_occupied": 29
+  },
+  {
+    "geoid": 37119006005,
+    "market_share": 69,
+    "school_age_kids_in_tract": 921,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 788,
+    "median_owner_cost_mortgage": 1238,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119006008,
+    "market_share": 62,
+    "school_age_kids_in_tract": 376,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1500,
+    "median_owner_cost_mortgage": 1236,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119006009,
+    "market_share": 61,
+    "school_age_kids_in_tract": 953,
+    "test_sfh_pct": 90,
+    "median_gross_rent": 1313,
+    "median_owner_cost_mortgage": 1211,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119006011,
+    "market_share": 62,
+    "school_age_kids_in_tract": 654,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1055,
+    "median_owner_cost_mortgage": 1090,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119006012,
+    "market_share": 89,
+    "school_age_kids_in_tract": 1236,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1347,
+    "median_owner_cost_mortgage": 1207,
+    "percent_owner_occupied": 83,
+    "percent_renter_occupied": 17
+  },
+  {
+    "geoid": 37119006013,
+    "market_share": 85,
+    "school_age_kids_in_tract": 1364,
+    "test_sfh_pct": 98,
+    "median_gross_rent": 1364,
+    "median_owner_cost_mortgage": 1381,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119006014,
+    "market_share": 44,
+    "school_age_kids_in_tract": 1022,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1807,
+    "median_owner_cost_mortgage": 1627,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119006015,
+    "market_share": 66,
+    "school_age_kids_in_tract": 982,
+    "test_sfh_pct": 94,
+    "median_gross_rent": 1767,
+    "median_owner_cost_mortgage": 1318,
+    "percent_owner_occupied": 86,
+    "percent_renter_occupied": 14
+  },
+  {
+    "geoid": 37119006016,
+    "market_share": 62,
+    "school_age_kids_in_tract": 814,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1228,
+    "median_owner_cost_mortgage": 1020,
+    "percent_owner_occupied": 47,
+    "percent_renter_occupied": 53
+  },
+  {
+    "geoid": 37119006103,
+    "market_share": 69,
+    "school_age_kids_in_tract": 710,
+    "test_sfh_pct": 56,
+    "median_gross_rent": 1287,
+    "median_owner_cost_mortgage": 2168,
+    "percent_owner_occupied": 55,
+    "percent_renter_occupied": 45
+  },
+  {
+    "geoid": 37119006105,
+    "market_share": 65,
+    "school_age_kids_in_tract": 725,
+    "test_sfh_pct": 97,
+    "median_gross_rent": 1652,
+    "median_owner_cost_mortgage": 1558,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119006108,
+    "market_share": 72,
+    "school_age_kids_in_tract": 1222,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1513,
+    "median_owner_cost_mortgage": 1205,
+    "percent_owner_occupied": 79,
+    "percent_renter_occupied": 21
+  },
+  {
+    "geoid": 37119006109,
+    "market_share": 62,
+    "school_age_kids_in_tract": 748,
+    "test_sfh_pct": 76,
+    "median_gross_rent": 1033,
+    "median_owner_cost_mortgage": 1191,
+    "percent_owner_occupied": 51,
+    "percent_renter_occupied": 49
+  },
+  {
+    "geoid": 37119006110,
+    "market_share": 79,
+    "school_age_kids_in_tract": 1557,
+    "test_sfh_pct": 93,
+    "median_gross_rent": 1618,
+    "median_owner_cost_mortgage": 1198,
+    "percent_owner_occupied": 67,
+    "percent_renter_occupied": 33
+  },
+  {
+    "geoid": 37119006111,
+    "market_share": 94,
+    "school_age_kids_in_tract": 818,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1181,
+    "median_owner_cost_mortgage": 1373,
+    "percent_owner_occupied": 66,
+    "percent_renter_occupied": 34
+  },
+  {
+    "geoid": 37119006112,
+    "market_share": 77,
+    "school_age_kids_in_tract": 574,
+    "test_sfh_pct": 20,
+    "median_gross_rent": 1407,
+    "median_owner_cost_mortgage": 1072,
+    "percent_owner_occupied": 32,
+    "percent_renter_occupied": 68
+  },
+  {
+    "geoid": 37119006113,
+    "market_share": 62,
+    "school_age_kids_in_tract": 346,
+    "test_sfh_pct": 41,
+    "median_gross_rent": 1302,
+    "median_owner_cost_mortgage": 1360,
+    "percent_owner_occupied": 54,
+    "percent_renter_occupied": 46
+  },
+  {
+    "geoid": 37119006114,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1064,
+    "test_sfh_pct": 59,
+    "median_gross_rent": 1408,
+    "median_owner_cost_mortgage": 1157,
+    "percent_owner_occupied": 59,
+    "percent_renter_occupied": 41
+  },
+  {
+    "geoid": 37119006115,
+    "market_share": 29,
+    "school_age_kids_in_tract": 805,
+    "test_sfh_pct": 7,
+    "median_gross_rent": 1304,
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 0,
+    "percent_renter_occupied": 100
+  },
+  {
+    "geoid": 37119006208,
+    "market_share": 41,
+    "school_age_kids_in_tract": 922,
+    "test_sfh_pct": 37,
+    "median_gross_rent": 1363,
+    "median_owner_cost_mortgage": 1898,
+    "percent_owner_occupied": 46,
+    "percent_renter_occupied": 54
+  },
+  {
+    "geoid": 37119006209,
+    "market_share": 39,
+    "school_age_kids_in_tract": 1170,
+    "test_sfh_pct": 27,
+    "median_gross_rent": 1390,
+    "median_owner_cost_mortgage": 1780,
+    "percent_owner_occupied": 33,
+    "percent_renter_occupied": 67
+  },
+  {
+    "geoid": 37119006210,
+    "market_share": 50,
+    "school_age_kids_in_tract": 1145,
+    "test_sfh_pct": 87,
+    "median_gross_rent": 1719,
+    "median_owner_cost_mortgage": 1908,
+    "percent_owner_occupied": 75,
+    "percent_renter_occupied": 25
+  },
+  {
+    "geoid": 37119006211,
+    "market_share": 41,
+    "school_age_kids_in_tract": 1871,
+    "test_sfh_pct": 91,
+    "median_gross_rent": 1464,
+    "median_owner_cost_mortgage": 2036,
+    "percent_owner_occupied": 90,
+    "percent_renter_occupied": 10
+  },
+  {
+    "geoid": 37119006212,
+    "market_share": 61,
+    "school_age_kids_in_tract": 927,
+    "test_sfh_pct": 54,
+    "median_gross_rent": 1473,
+    "median_owner_cost_mortgage": 1821,
+    "percent_owner_occupied": 54,
+    "percent_renter_occupied": 46
+  },
+  {
+    "geoid": 37119006214,
+    "market_share": 56,
+    "school_age_kids_in_tract": 1005,
+    "test_sfh_pct": 99,
+    "median_gross_rent": 1764,
+    "median_owner_cost_mortgage": 1628,
+    "percent_owner_occupied": 93,
+    "percent_renter_occupied": 7
+  },
+  {
+    "geoid": 37119006216,
+    "market_share": 47,
+    "school_age_kids_in_tract": 328,
+    "test_sfh_pct": 51,
+    "median_gross_rent": 1564,
+    "median_owner_cost_mortgage": 2995,
+    "percent_owner_occupied": 82,
+    "percent_renter_occupied": 18
+  },
+  {
+    "geoid": 37119006217,
+    "market_share": 57,
+    "school_age_kids_in_tract": 626,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 1197,
+    "median_owner_cost_mortgage": 2269,
+    "percent_owner_occupied": 68,
+    "percent_renter_occupied": 32
+  },
+  {
+    "geoid": 37119006218,
+    "market_share": 36,
+    "school_age_kids_in_tract": 671,
+    "test_sfh_pct": 90,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 3041,
+    "percent_owner_occupied": 96,
+    "percent_renter_occupied": 4
+  },
+  {
+    "geoid": 37119006219,
+    "market_share": 19,
+    "school_age_kids_in_tract": 557,
+    "test_sfh_pct": 89,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 3122,
+    "percent_owner_occupied": 99,
+    "percent_renter_occupied": 1
+  },
+  {
+    "geoid": 37119006220,
+    "market_share": 24,
+    "school_age_kids_in_tract": 392,
+    "test_sfh_pct": 38,
+    "median_gross_rent": 1495,
+    "median_owner_cost_mortgage": 2096,
+    "percent_owner_occupied": 83,
+    "percent_renter_occupied": 17
+  },
+  {
+    "geoid": 37119006221,
+    "market_share": 72,
+    "school_age_kids_in_tract": 830,
+    "test_sfh_pct": 92,
+    "median_gross_rent": 1912,
+    "median_owner_cost_mortgage": 1643,
+    "percent_owner_occupied": 88,
+    "percent_renter_occupied": 12
+  },
+  {
+    "geoid": 37119006222,
+    "market_share": 38,
+    "school_age_kids_in_tract": 1105,
+    "test_sfh_pct": 98,
+    "median_gross_rent": 784,
+    "median_owner_cost_mortgage": 1740,
+    "percent_owner_occupied": 92,
+    "percent_renter_occupied": 8
+  },
+  {
+    "geoid": 37119006223,
+    "market_share": 50,
+    "school_age_kids_in_tract": 806,
+    "test_sfh_pct": 83,
+    "median_gross_rent": 1844,
+    "median_owner_cost_mortgage": 1553,
+    "percent_owner_occupied": 81,
+    "percent_renter_occupied": 19
+  },
+  {
+    "geoid": 37119006224,
+    "market_share": 97,
+    "school_age_kids_in_tract": 769,
+    "test_sfh_pct": 42,
+    "median_gross_rent": 1427,
+    "median_owner_cost_mortgage": 1295,
+    "percent_owner_occupied": 43,
+    "percent_renter_occupied": 57
+  },
+  {
+    "geoid": 37119006305,
+    "market_share": 17,
+    "school_age_kids_in_tract": 1133,
+    "test_sfh_pct": 91,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 2103,
+    "percent_owner_occupied": 93,
+    "percent_renter_occupied": 7
+  },
+  {
+    "geoid": 37119006306,
+    "market_share": 62,
+    "school_age_kids_in_tract": 235,
+    "test_sfh_pct": 98,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 1605,
+    "percent_owner_occupied": 93,
+    "percent_renter_occupied": 7
+  },
+  {
+    "geoid": 37119006307,
+    "market_share": 37,
+    "school_age_kids_in_tract": 1283,
+    "test_sfh_pct": 65,
+    "median_gross_rent": 1449,
+    "median_owner_cost_mortgage": 1938,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119006308,
+    "market_share": 63,
+    "school_age_kids_in_tract": 1182,
+    "test_sfh_pct": 67,
+    "median_gross_rent": 1650,
+    "median_owner_cost_mortgage": 1916,
+    "percent_owner_occupied": 59,
+    "percent_renter_occupied": 41
+  },
+  {
+    "geoid": 37119006309,
+    "market_share": 78,
+    "school_age_kids_in_tract": 577,
+    "test_sfh_pct": 49,
+    "median_gross_rent": 1066,
+    "median_owner_cost_mortgage": 1144,
+    "percent_owner_occupied": 53,
+    "percent_renter_occupied": 47
+  },
+  {
+    "geoid": 37119006310,
+    "market_share": 78,
+    "school_age_kids_in_tract": 774,
+    "test_sfh_pct": 91,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": 1707,
+    "percent_owner_occupied": 73,
+    "percent_renter_occupied": 27
+  },
+  {
+    "geoid": 37119006311,
+    "market_share": 62,
+    "school_age_kids_in_tract": 1089,
+    "test_sfh_pct": 100,
+    "median_gross_rent": 2237,
+    "median_owner_cost_mortgage": 2112,
+    "percent_owner_occupied": 95,
+    "percent_renter_occupied": 5
+  },
+  {
+    "geoid": 37119006403,
+    "market_share": 35,
+    "school_age_kids_in_tract": 710,
+    "test_sfh_pct": 64,
+    "median_gross_rent": 1255,
+    "median_owner_cost_mortgage": 2189,
+    "percent_owner_occupied": 74,
+    "percent_renter_occupied": 26
+  },
+  {
+    "geoid": 37119006404,
+    "market_share": 60,
+    "school_age_kids_in_tract": 2011,
+    "test_sfh_pct": 89,
+    "median_gross_rent": 1679,
+    "median_owner_cost_mortgage": 2370,
+    "percent_owner_occupied": 99,
+    "percent_renter_occupied": 1
+  },
+  {
+    "geoid": 37119006407,
+    "market_share": 46,
+    "school_age_kids_in_tract": 1050,
+    "test_sfh_pct": 85,
+    "median_gross_rent": 1680,
+    "median_owner_cost_mortgage": 1651,
+    "percent_owner_occupied": 68,
+    "percent_renter_occupied": 32
+  },
+  {
+    "geoid": 37119006408,
+    "market_share": 47,
+    "school_age_kids_in_tract": 452,
+    "test_sfh_pct": 30,
+    "median_gross_rent": 1310,
+    "median_owner_cost_mortgage": 1760,
+    "percent_owner_occupied": 35,
+    "percent_renter_occupied": 65
+  },
+  {
+    "geoid": 37119006409,
+    "market_share": 49,
+    "school_age_kids_in_tract": 578,
+    "test_sfh_pct": 59,
+    "median_gross_rent": 1221,
+    "median_owner_cost_mortgage": 2120,
+    "percent_owner_occupied": 72,
+    "percent_renter_occupied": 28
+  },
+  {
+    "geoid": 37119006410,
+    "market_share": 79,
+    "school_age_kids_in_tract": 847,
+    "test_sfh_pct": 78,
+    "median_gross_rent": 1709,
+    "median_owner_cost_mortgage": 1413,
+    "percent_owner_occupied": 76,
+    "percent_renter_occupied": 24
+  },
+  {
+    "geoid": 37119006411,
+    "market_share": 50,
+    "school_age_kids_in_tract": 925,
+    "test_sfh_pct": 73,
+    "median_gross_rent": 1146,
+    "median_owner_cost_mortgage": 1393,
+    "percent_owner_occupied": 69,
+    "percent_renter_occupied": 31
+  },
+  {
+    "geoid": 37119980100,
+    "market_share": 62,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": "NA",
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": "NA",
+    "percent_renter_occupied": "NA"
+  },
+  {
+    "geoid": 37119980200,
+    "market_share": 62,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": "NA",
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": "NA",
+    "percent_renter_occupied": "NA"
+  },
+  {
+    "geoid": 37119980300,
+    "market_share": 8,
+    "school_age_kids_in_tract": 0,
+    "test_sfh_pct": 0,
+    "median_gross_rent": "NA",
+    "median_owner_cost_mortgage": "NA",
+    "percent_owner_occupied": 100,
+    "percent_renter_occupied": 0
+  }
+]

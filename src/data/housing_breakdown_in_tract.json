@@ -1,0 +1,2747 @@
+[
+  {
+    "geoid": 37119000101,
+    "li_share": 0,
+    "tenure_total": 707,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000102,
+    "li_share": 0,
+    "tenure_total": 1664,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000103,
+    "li_share": 0,
+    "tenure_total": 1018,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000104,
+    "li_share": 0,
+    "tenure_total": 876,
+    "subsidized_units_available": 4,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000301,
+    "li_share": 0,
+    "tenure_total": 555,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000302,
+    "li_share": 0,
+    "tenure_total": 623,
+    "subsidized_units_available": 178,
+    "ph_share": 29,
+    "ph_error": "FALSE",
+    "non_ph_units": 71
+  },
+  {
+    "geoid": 37119000401,
+    "li_share": 0,
+    "tenure_total": 1071,
+    "subsidized_units_available": 165,
+    "ph_share": 15,
+    "ph_error": "FALSE",
+    "non_ph_units": 85
+  },
+  {
+    "geoid": 37119000402,
+    "li_share": 0,
+    "tenure_total": 1262,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000501,
+    "li_share": 0,
+    "tenure_total": 874,
+    "subsidized_units_available": 36,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119000502,
+    "li_share": 0,
+    "tenure_total": 809,
+    "subsidized_units_available": 73,
+    "ph_share": 9,
+    "ph_error": "FALSE",
+    "non_ph_units": 91
+  },
+  {
+    "geoid": 37119000503,
+    "li_share": 0,
+    "tenure_total": 1088,
+    "subsidized_units_available": 297,
+    "ph_share": 27,
+    "ph_error": "FALSE",
+    "non_ph_units": 73
+  },
+  {
+    "geoid": 37119000600,
+    "li_share": 10.6,
+    "tenure_total": 1580,
+    "subsidized_units_available": 289,
+    "ph_share": 18,
+    "ph_error": "FALSE",
+    "non_ph_units": 71.4
+  },
+  {
+    "geoid": 37119000700,
+    "li_share": 0,
+    "tenure_total": 905,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119000800,
+    "li_share": 30.5,
+    "tenure_total": 1313,
+    "subsidized_units_available": 99,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 61.5
+  },
+  {
+    "geoid": 37119000900,
+    "li_share": 0.8,
+    "tenure_total": 824,
+    "subsidized_units_available": 79,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 89.2
+  },
+  {
+    "geoid": 37119001000,
+    "li_share": 0,
+    "tenure_total": 1676,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119001100,
+    "li_share": 0,
+    "tenure_total": 1696,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119001200,
+    "li_share": 1.7,
+    "tenure_total": 1992,
+    "subsidized_units_available": 83,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 94.3
+  },
+  {
+    "geoid": 37119001300,
+    "li_share": 0,
+    "tenure_total": 1807,
+    "subsidized_units_available": 36,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001400,
+    "li_share": 18.2,
+    "tenure_total": 1643,
+    "subsidized_units_available": 10,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 80.8
+  },
+  {
+    "geoid": 37119001504,
+    "li_share": 10.5,
+    "tenure_total": 2574,
+    "subsidized_units_available": 207,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 81.5
+  },
+  {
+    "geoid": 37119001505,
+    "li_share": 29.4,
+    "tenure_total": 1489,
+    "subsidized_units_available": 15,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 69.6
+  },
+  {
+    "geoid": 37119001507,
+    "li_share": 0,
+    "tenure_total": 1427,
+    "subsidized_units_available": 46,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119001508,
+    "li_share": 0,
+    "tenure_total": 2403,
+    "subsidized_units_available": 55,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001509,
+    "li_share": 6.9,
+    "tenure_total": 1137,
+    "subsidized_units_available": 22,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 91.1
+  },
+  {
+    "geoid": 37119001510,
+    "li_share": 10.3,
+    "tenure_total": 1177,
+    "subsidized_units_available": 121,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 79.7
+  },
+  {
+    "geoid": 37119001603,
+    "li_share": 0,
+    "tenure_total": 1763,
+    "subsidized_units_available": 87,
+    "ph_share": 5,
+    "ph_error": "FALSE",
+    "non_ph_units": 95
+  },
+  {
+    "geoid": 37119001605,
+    "li_share": 0,
+    "tenure_total": 769,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001606,
+    "li_share": 0,
+    "tenure_total": 1515,
+    "subsidized_units_available": 9,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001607,
+    "li_share": 0,
+    "tenure_total": 1092,
+    "subsidized_units_available": 14,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001608,
+    "li_share": 0,
+    "tenure_total": 1614,
+    "subsidized_units_available": 60,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119001609,
+    "li_share": 0,
+    "tenure_total": 1201,
+    "subsidized_units_available": 75,
+    "ph_share": 6,
+    "ph_error": "FALSE",
+    "non_ph_units": 94
+  },
+  {
+    "geoid": 37119001701,
+    "li_share": 1.2,
+    "tenure_total": 1935,
+    "subsidized_units_available": 47,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 96.8
+  },
+  {
+    "geoid": 37119001702,
+    "li_share": 0,
+    "tenure_total": 2285,
+    "subsidized_units_available": 87,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119001801,
+    "li_share": 0.1,
+    "tenure_total": 733,
+    "subsidized_units_available": 56,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 91.9
+  },
+  {
+    "geoid": 37119001802,
+    "li_share": 0,
+    "tenure_total": 1736,
+    "subsidized_units_available": 23,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001910,
+    "li_share": 7.8,
+    "tenure_total": 1917,
+    "subsidized_units_available": 115,
+    "ph_share": 6,
+    "ph_error": "FALSE",
+    "non_ph_units": 86.2
+  },
+  {
+    "geoid": 37119001911,
+    "li_share": 3.7,
+    "tenure_total": 2110,
+    "subsidized_units_available": 20,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 95.3
+  },
+  {
+    "geoid": 37119001914,
+    "li_share": 0,
+    "tenure_total": 1352,
+    "subsidized_units_available": 50,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119001916,
+    "li_share": 0,
+    "tenure_total": 1532,
+    "subsidized_units_available": 26,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001917,
+    "li_share": 0,
+    "tenure_total": 1361,
+    "subsidized_units_available": 9,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001918,
+    "li_share": 7.5,
+    "tenure_total": 1700,
+    "subsidized_units_available": 29,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 90.5
+  },
+  {
+    "geoid": 37119001919,
+    "li_share": 0,
+    "tenure_total": 1619,
+    "subsidized_units_available": 31,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001920,
+    "li_share": 0,
+    "tenure_total": 1658,
+    "subsidized_units_available": 16,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001921,
+    "li_share": 0,
+    "tenure_total": 856,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119001922,
+    "li_share": 0,
+    "tenure_total": 1725,
+    "subsidized_units_available": 34,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001923,
+    "li_share": 13.5,
+    "tenure_total": 1595,
+    "subsidized_units_available": 15,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 85.5
+  },
+  {
+    "geoid": 37119001924,
+    "li_share": 0,
+    "tenure_total": 839,
+    "subsidized_units_available": 75,
+    "ph_share": 9,
+    "ph_error": "FALSE",
+    "non_ph_units": 91
+  },
+  {
+    "geoid": 37119001925,
+    "li_share": 0,
+    "tenure_total": 1810,
+    "subsidized_units_available": 32,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119001926,
+    "li_share": 0,
+    "tenure_total": 1776,
+    "subsidized_units_available": 59,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119001927,
+    "li_share": 0,
+    "tenure_total": 1286,
+    "subsidized_units_available": 7,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119002004,
+    "li_share": 0,
+    "tenure_total": 2172,
+    "subsidized_units_available": 7,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002005,
+    "li_share": 0,
+    "tenure_total": 1346,
+    "subsidized_units_available": 6,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002006,
+    "li_share": 0,
+    "tenure_total": 1449,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002007,
+    "li_share": 0,
+    "tenure_total": 1103,
+    "subsidized_units_available": 182,
+    "ph_share": 17,
+    "ph_error": "FALSE",
+    "non_ph_units": 83
+  },
+  {
+    "geoid": 37119002008,
+    "li_share": 0,
+    "tenure_total": 1276,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002100,
+    "li_share": 0,
+    "tenure_total": 1388,
+    "subsidized_units_available": 21,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119002201,
+    "li_share": 0,
+    "tenure_total": 1067,
+    "subsidized_units_available": 27,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119002202,
+    "li_share": 0,
+    "tenure_total": 1301,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002300,
+    "li_share": 26.7,
+    "tenure_total": 1224,
+    "subsidized_units_available": 479,
+    "ph_share": 39,
+    "ph_error": "FALSE",
+    "non_ph_units": 34.3
+  },
+  {
+    "geoid": 37119002400,
+    "li_share": 0,
+    "tenure_total": 1796,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002500,
+    "li_share": 0,
+    "tenure_total": 1350,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002600,
+    "li_share": 23,
+    "tenure_total": 665,
+    "subsidized_units_available": 98,
+    "ph_share": 15,
+    "ph_error": "FALSE",
+    "non_ph_units": 62
+  },
+  {
+    "geoid": 37119002701,
+    "li_share": 0,
+    "tenure_total": 1255,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002702,
+    "li_share": 0,
+    "tenure_total": 2044,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002800,
+    "li_share": 0,
+    "tenure_total": 1551,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002903,
+    "li_share": 4.4,
+    "tenure_total": 1955,
+    "subsidized_units_available": 46,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 93.6
+  },
+  {
+    "geoid": 37119002905,
+    "li_share": 0,
+    "tenure_total": 1235,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002907,
+    "li_share": 0,
+    "tenure_total": 1369,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002908,
+    "li_share": 0,
+    "tenure_total": 1390,
+    "subsidized_units_available": 47,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119002909,
+    "li_share": 0,
+    "tenure_total": 858,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119002910,
+    "li_share": 0,
+    "tenure_total": 1761,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003006,
+    "li_share": 0,
+    "tenure_total": 2024,
+    "subsidized_units_available": 12,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119003008,
+    "li_share": 2.1,
+    "tenure_total": 2650,
+    "subsidized_units_available": 28,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 96.9
+  },
+  {
+    "geoid": 37119003012,
+    "li_share": 0,
+    "tenure_total": 1877,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003013,
+    "li_share": 0,
+    "tenure_total": 1923,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003015,
+    "li_share": 0,
+    "tenure_total": 1903,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003016,
+    "li_share": 9.1,
+    "tenure_total": 1757,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 90.9
+  },
+  {
+    "geoid": 37119003017,
+    "li_share": 0,
+    "tenure_total": 1501,
+    "subsidized_units_available": 31,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119003018,
+    "li_share": 0,
+    "tenure_total": 1143,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003019,
+    "li_share": 0,
+    "tenure_total": 783,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003020,
+    "li_share": 0,
+    "tenure_total": 1577,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003021,
+    "li_share": 0,
+    "tenure_total": 1076,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003022,
+    "li_share": 0,
+    "tenure_total": 1581,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003102,
+    "li_share": 7.5,
+    "tenure_total": 2186,
+    "subsidized_units_available": 164,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 84.5
+  },
+  {
+    "geoid": 37119003105,
+    "li_share": 0,
+    "tenure_total": 1715,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003106,
+    "li_share": 0,
+    "tenure_total": 1834,
+    "subsidized_units_available": 46,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119003108,
+    "li_share": 0,
+    "tenure_total": 1468,
+    "subsidized_units_available": 53,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119003109,
+    "li_share": 0,
+    "tenure_total": 1540,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119003110,
+    "li_share": 0,
+    "tenure_total": 1022,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003111,
+    "li_share": 0,
+    "tenure_total": 1678,
+    "subsidized_units_available": 27,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119003201,
+    "li_share": 0,
+    "tenure_total": 1220,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003203,
+    "li_share": 0,
+    "tenure_total": 1340,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003204,
+    "li_share": 6.4,
+    "tenure_total": 1617,
+    "subsidized_units_available": 117,
+    "ph_share": 7,
+    "ph_error": "FALSE",
+    "non_ph_units": 86.6
+  },
+  {
+    "geoid": 37119003301,
+    "li_share": 0,
+    "tenure_total": 772,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003302,
+    "li_share": 0,
+    "tenure_total": 1190,
+    "subsidized_units_available": 138,
+    "ph_share": 12,
+    "ph_error": "FALSE",
+    "non_ph_units": 88
+  },
+  {
+    "geoid": 37119003401,
+    "li_share": 0,
+    "tenure_total": 1024,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003402,
+    "li_share": 0,
+    "tenure_total": 1720,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003500,
+    "li_share": 0,
+    "tenure_total": 1598,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003600,
+    "li_share": 5.1,
+    "tenure_total": 1933,
+    "subsidized_units_available": 189,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 84.9
+  },
+  {
+    "geoid": 37119003701,
+    "li_share": 0,
+    "tenure_total": 1164,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119003702,
+    "li_share": 0,
+    "tenure_total": 1090,
+    "subsidized_units_available": 411,
+    "ph_share": 38,
+    "ph_error": "FALSE",
+    "non_ph_units": 62
+  },
+  {
+    "geoid": 37119003802,
+    "li_share": 48.3,
+    "tenure_total": 1213,
+    "subsidized_units_available": 206,
+    "ph_share": 17,
+    "ph_error": "FALSE",
+    "non_ph_units": 34.7
+  },
+  {
+    "geoid": 37119003805,
+    "li_share": 4,
+    "tenure_total": 2000,
+    "subsidized_units_available": 27,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 95
+  },
+  {
+    "geoid": 37119003807,
+    "li_share": 46.1,
+    "tenure_total": 1535,
+    "subsidized_units_available": 110,
+    "ph_share": 7,
+    "ph_error": "FALSE",
+    "non_ph_units": 46.9
+  },
+  {
+    "geoid": 37119003808,
+    "li_share": 16.3,
+    "tenure_total": 2147,
+    "subsidized_units_available": 34,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 81.7
+  },
+  {
+    "geoid": 37119003809,
+    "li_share": 0,
+    "tenure_total": 1248,
+    "subsidized_units_available": 7,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119003810,
+    "li_share": 0,
+    "tenure_total": 1582,
+    "subsidized_units_available": 27,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119003811,
+    "li_share": 0,
+    "tenure_total": 947,
+    "subsidized_units_available": 88,
+    "ph_share": 9,
+    "ph_error": "FALSE",
+    "non_ph_units": 91
+  },
+  {
+    "geoid": 37119003902,
+    "li_share": 27.7,
+    "tenure_total": 1970,
+    "subsidized_units_available": 384,
+    "ph_share": 19,
+    "ph_error": "FALSE",
+    "non_ph_units": 53.3
+  },
+  {
+    "geoid": 37119003903,
+    "li_share": 0,
+    "tenure_total": 868,
+    "subsidized_units_available": 451,
+    "ph_share": 52,
+    "ph_error": "FALSE",
+    "non_ph_units": 48
+  },
+  {
+    "geoid": 37119004000,
+    "li_share": 45.1,
+    "tenure_total": 1801,
+    "subsidized_units_available": 161,
+    "ph_share": 9,
+    "ph_error": "FALSE",
+    "non_ph_units": 45.9
+  },
+  {
+    "geoid": 37119004101,
+    "li_share": 0,
+    "tenure_total": 808,
+    "subsidized_units_available": 15,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119004102,
+    "li_share": 0,
+    "tenure_total": 1373,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119004200,
+    "li_share": 0,
+    "tenure_total": 1287,
+    "subsidized_units_available": 72,
+    "ph_share": 6,
+    "ph_error": "FALSE",
+    "non_ph_units": 94
+  },
+  {
+    "geoid": 37119004302,
+    "li_share": 11.8,
+    "tenure_total": 1786,
+    "subsidized_units_available": 144,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 80.2
+  },
+  {
+    "geoid": 37119004303,
+    "li_share": 19.1,
+    "tenure_total": 989,
+    "subsidized_units_available": 41,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 76.9
+  },
+  {
+    "geoid": 37119004304,
+    "li_share": 0,
+    "tenure_total": 1395,
+    "subsidized_units_available": 117,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 92
+  },
+  {
+    "geoid": 37119004306,
+    "li_share": 0,
+    "tenure_total": 1319,
+    "subsidized_units_available": 32,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119004307,
+    "li_share": 0,
+    "tenure_total": 1528,
+    "subsidized_units_available": 27,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119004400,
+    "li_share": 0,
+    "tenure_total": 1542,
+    "subsidized_units_available": 57,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119004500,
+    "li_share": 6.3,
+    "tenure_total": 1295,
+    "subsidized_units_available": 100,
+    "ph_share": 8,
+    "ph_error": "FALSE",
+    "non_ph_units": 85.7
+  },
+  {
+    "geoid": 37119004600,
+    "li_share": 7.1,
+    "tenure_total": 1140,
+    "subsidized_units_available": 114,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 82.9
+  },
+  {
+    "geoid": 37119004700,
+    "li_share": 0,
+    "tenure_total": 450,
+    "subsidized_units_available": 75,
+    "ph_share": 17,
+    "ph_error": "FALSE",
+    "non_ph_units": 83
+  },
+  {
+    "geoid": 37119004800,
+    "li_share": 4.7,
+    "tenure_total": 1566,
+    "subsidized_units_available": 111,
+    "ph_share": 7,
+    "ph_error": "FALSE",
+    "non_ph_units": 88.3
+  },
+  {
+    "geoid": 37119004900,
+    "li_share": 0,
+    "tenure_total": 272,
+    "subsidized_units_available": 40,
+    "ph_share": 15,
+    "ph_error": "FALSE",
+    "non_ph_units": 85
+  },
+  {
+    "geoid": 37119005000,
+    "li_share": 45.2,
+    "tenure_total": 1001,
+    "subsidized_units_available": 267,
+    "ph_share": 27,
+    "ph_error": "FALSE",
+    "non_ph_units": 27.799999999999997
+  },
+  {
+    "geoid": 37119005100,
+    "li_share": 12,
+    "tenure_total": 1191,
+    "subsidized_units_available": 178,
+    "ph_share": 15,
+    "ph_error": "FALSE",
+    "non_ph_units": 73
+  },
+  {
+    "geoid": 37119005200,
+    "li_share": 18.7,
+    "tenure_total": 772,
+    "subsidized_units_available": 20,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 78.3
+  },
+  {
+    "geoid": 37119005301,
+    "li_share": 6.5,
+    "tenure_total": 1632,
+    "subsidized_units_available": 41,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 90.5
+  },
+  {
+    "geoid": 37119005305,
+    "li_share": 3.1,
+    "tenure_total": 1661,
+    "subsidized_units_available": 76,
+    "ph_share": 5,
+    "ph_error": "FALSE",
+    "non_ph_units": 91.9
+  },
+  {
+    "geoid": 37119005306,
+    "li_share": 45.8,
+    "tenure_total": 1092,
+    "subsidized_units_available": 105,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 44.2
+  },
+  {
+    "geoid": 37119005307,
+    "li_share": 0,
+    "tenure_total": 1762,
+    "subsidized_units_available": 45,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119005308,
+    "li_share": 0,
+    "tenure_total": 963,
+    "subsidized_units_available": 16,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005403,
+    "li_share": 4,
+    "tenure_total": 1893,
+    "subsidized_units_available": 38,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 94
+  },
+  {
+    "geoid": 37119005404,
+    "li_share": 0,
+    "tenure_total": 1821,
+    "subsidized_units_available": 161,
+    "ph_share": 9,
+    "ph_error": "FALSE",
+    "non_ph_units": 91
+  },
+  {
+    "geoid": 37119005405,
+    "li_share": 0,
+    "tenure_total": 1153,
+    "subsidized_units_available": 25,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005406,
+    "li_share": 0,
+    "tenure_total": 1670,
+    "subsidized_units_available": 164,
+    "ph_share": 10,
+    "ph_error": "FALSE",
+    "non_ph_units": 90
+  },
+  {
+    "geoid": 37119005508,
+    "li_share": 0,
+    "tenure_total": 1594,
+    "subsidized_units_available": 14,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005510,
+    "li_share": 0,
+    "tenure_total": 2255,
+    "subsidized_units_available": 34,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005511,
+    "li_share": 27.4,
+    "tenure_total": 1815,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 72.6
+  },
+  {
+    "geoid": 37119005512,
+    "li_share": 0.1,
+    "tenure_total": 2154,
+    "subsidized_units_available": 70,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 96.9
+  },
+  {
+    "geoid": 37119005513,
+    "li_share": 0,
+    "tenure_total": 1624,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005515,
+    "li_share": 0,
+    "tenure_total": 977,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005516,
+    "li_share": 0,
+    "tenure_total": 674,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005517,
+    "li_share": 0,
+    "tenure_total": 1783,
+    "subsidized_units_available": 7,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005519,
+    "li_share": 0,
+    "tenure_total": 2295,
+    "subsidized_units_available": 71,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119005520,
+    "li_share": 0,
+    "tenure_total": 1582,
+    "subsidized_units_available": 9,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005522,
+    "li_share": 0,
+    "tenure_total": 2040,
+    "subsidized_units_available": 3,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005525,
+    "li_share": 0,
+    "tenure_total": 1352,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005526,
+    "li_share": 0,
+    "tenure_total": 1126,
+    "subsidized_units_available": 29,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119005527,
+    "li_share": 0,
+    "tenure_total": 1376,
+    "subsidized_units_available": 169,
+    "ph_share": 12,
+    "ph_error": "FALSE",
+    "non_ph_units": 88
+  },
+  {
+    "geoid": 37119005528,
+    "li_share": 0,
+    "tenure_total": 1849,
+    "subsidized_units_available": 8,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005529,
+    "li_share": 0,
+    "tenure_total": 751,
+    "subsidized_units_available": 5,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005530,
+    "li_share": 0,
+    "tenure_total": 1322,
+    "subsidized_units_available": 7,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005531,
+    "li_share": 0,
+    "tenure_total": 2205,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005532,
+    "li_share": 0,
+    "tenure_total": 2211,
+    "subsidized_units_available": 4,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005533,
+    "li_share": 0,
+    "tenure_total": 694,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005534,
+    "li_share": 0,
+    "tenure_total": 2321,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005535,
+    "li_share": 0,
+    "tenure_total": 1798,
+    "subsidized_units_available": 14,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005536,
+    "li_share": 0,
+    "tenure_total": 2533,
+    "subsidized_units_available": 23,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005604,
+    "li_share": 0,
+    "tenure_total": 976,
+    "subsidized_units_available": 10,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005609,
+    "li_share": 0,
+    "tenure_total": 1656,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005610,
+    "li_share": 7.2,
+    "tenure_total": 1249,
+    "subsidized_units_available": 10,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 91.8
+  },
+  {
+    "geoid": 37119005611,
+    "li_share": 0,
+    "tenure_total": 1578,
+    "subsidized_units_available": 10,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005612,
+    "li_share": 0,
+    "tenure_total": 2140,
+    "subsidized_units_available": 12,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005613,
+    "li_share": 0,
+    "tenure_total": 1191,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005615,
+    "li_share": 0,
+    "tenure_total": 719,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005616,
+    "li_share": 0,
+    "tenure_total": 728,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005617,
+    "li_share": 17.2,
+    "tenure_total": 884,
+    "subsidized_units_available": 15,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 80.8
+  },
+  {
+    "geoid": 37119005618,
+    "li_share": 0,
+    "tenure_total": 1015,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005619,
+    "li_share": 0,
+    "tenure_total": 1640,
+    "subsidized_units_available": 22,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005621,
+    "li_share": 0,
+    "tenure_total": 2270,
+    "subsidized_units_available": 10,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005622,
+    "li_share": 0,
+    "tenure_total": 1061,
+    "subsidized_units_available": 63,
+    "ph_share": 6,
+    "ph_error": "FALSE",
+    "non_ph_units": 94
+  },
+  {
+    "geoid": 37119005623,
+    "li_share": 0,
+    "tenure_total": 2184,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005624,
+    "li_share": 0,
+    "tenure_total": 879,
+    "subsidized_units_available": 20,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005625,
+    "li_share": 0,
+    "tenure_total": 2178,
+    "subsidized_units_available": 12,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005626,
+    "li_share": 0,
+    "tenure_total": 1342,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005627,
+    "li_share": 0,
+    "tenure_total": 2299,
+    "subsidized_units_available": 34,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005709,
+    "li_share": 0,
+    "tenure_total": 1965,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005710,
+    "li_share": 0,
+    "tenure_total": 1902,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005712,
+    "li_share": 0,
+    "tenure_total": 1238,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005713,
+    "li_share": 0,
+    "tenure_total": 1621,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005714,
+    "li_share": 0,
+    "tenure_total": 2205,
+    "subsidized_units_available": 3,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005715,
+    "li_share": 0,
+    "tenure_total": 1006,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005716,
+    "li_share": 4.6,
+    "tenure_total": 1857,
+    "subsidized_units_available": 54,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 92.4
+  },
+  {
+    "geoid": 37119005718,
+    "li_share": 0,
+    "tenure_total": 1333,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005719,
+    "li_share": 0,
+    "tenure_total": 1465,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005720,
+    "li_share": 0,
+    "tenure_total": 963,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005721,
+    "li_share": 0,
+    "tenure_total": 1430,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005722,
+    "li_share": 0,
+    "tenure_total": 825,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005723,
+    "li_share": 0,
+    "tenure_total": 1470,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005811,
+    "li_share": 4.2,
+    "tenure_total": 1840,
+    "subsidized_units_available": 30,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 93.8
+  },
+  {
+    "geoid": 37119005815,
+    "li_share": 0,
+    "tenure_total": 1535,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005816,
+    "li_share": 0,
+    "tenure_total": 1652,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005817,
+    "li_share": 0,
+    "tenure_total": 1637,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005824,
+    "li_share": 18.3,
+    "tenure_total": 1624,
+    "subsidized_units_available": 78,
+    "ph_share": 5,
+    "ph_error": "FALSE",
+    "non_ph_units": 76.7
+  },
+  {
+    "geoid": 37119005826,
+    "li_share": 0,
+    "tenure_total": 1081,
+    "subsidized_units_available": 3,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005827,
+    "li_share": 0,
+    "tenure_total": 1135,
+    "subsidized_units_available": 20,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005828,
+    "li_share": 0,
+    "tenure_total": 1711,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005829,
+    "li_share": 0,
+    "tenure_total": 931,
+    "subsidized_units_available": 39,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119005830,
+    "li_share": 0,
+    "tenure_total": 1451,
+    "subsidized_units_available": 3,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005832,
+    "li_share": 0,
+    "tenure_total": 1002,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005833,
+    "li_share": 0,
+    "tenure_total": 1947,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005834,
+    "li_share": 0,
+    "tenure_total": 1531,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005835,
+    "li_share": 0,
+    "tenure_total": 915,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005836,
+    "li_share": 0,
+    "tenure_total": 1378,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005839,
+    "li_share": 0,
+    "tenure_total": 1221,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005840,
+    "li_share": 0,
+    "tenure_total": 792,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005843,
+    "li_share": 0,
+    "tenure_total": 1169,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005845,
+    "li_share": 0,
+    "tenure_total": 2003,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005846,
+    "li_share": 0,
+    "tenure_total": 1258,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005847,
+    "li_share": 0,
+    "tenure_total": 1906,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005848,
+    "li_share": 0,
+    "tenure_total": 1559,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005849,
+    "li_share": 0,
+    "tenure_total": 1217,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005850,
+    "li_share": 0,
+    "tenure_total": 1002,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005851,
+    "li_share": 0,
+    "tenure_total": 1590,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005852,
+    "li_share": 0,
+    "tenure_total": 1215,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005853,
+    "li_share": 0,
+    "tenure_total": 1137,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005854,
+    "li_share": 0,
+    "tenure_total": 1236,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005855,
+    "li_share": 0,
+    "tenure_total": 1747,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005856,
+    "li_share": 0,
+    "tenure_total": 995,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005857,
+    "li_share": 0,
+    "tenure_total": 900,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005858,
+    "li_share": 0,
+    "tenure_total": 1503,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005859,
+    "li_share": 0,
+    "tenure_total": 1239,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005860,
+    "li_share": 0,
+    "tenure_total": 1714,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005861,
+    "li_share": 0,
+    "tenure_total": 1368,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005862,
+    "li_share": 0,
+    "tenure_total": 1100,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005863,
+    "li_share": 0,
+    "tenure_total": 1286,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005864,
+    "li_share": 0,
+    "tenure_total": 1668,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005865,
+    "li_share": 0,
+    "tenure_total": 821,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005866,
+    "li_share": 0,
+    "tenure_total": 1999,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005867,
+    "li_share": 0,
+    "tenure_total": 1620,
+    "subsidized_units_available": 119,
+    "ph_share": 7,
+    "ph_error": "FALSE",
+    "non_ph_units": 93
+  },
+  {
+    "geoid": 37119005868,
+    "li_share": 0,
+    "tenure_total": 931,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005908,
+    "li_share": 0,
+    "tenure_total": 873,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005910,
+    "li_share": 0,
+    "tenure_total": 2042,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005913,
+    "li_share": 5.2,
+    "tenure_total": 2804,
+    "subsidized_units_available": 21,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 93.8
+  },
+  {
+    "geoid": 37119005915,
+    "li_share": 6.2,
+    "tenure_total": 1386,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 93.8
+  },
+  {
+    "geoid": 37119005916,
+    "li_share": 19.3,
+    "tenure_total": 870,
+    "subsidized_units_available": 7,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 79.7
+  },
+  {
+    "geoid": 37119005918,
+    "li_share": 0,
+    "tenure_total": 1590,
+    "subsidized_units_available": 7,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005919,
+    "li_share": 0,
+    "tenure_total": 1319,
+    "subsidized_units_available": 12,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005920,
+    "li_share": 0,
+    "tenure_total": 873,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005921,
+    "li_share": 0,
+    "tenure_total": 1326,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005922,
+    "li_share": 0,
+    "tenure_total": 1410,
+    "subsidized_units_available": 3,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005923,
+    "li_share": 0,
+    "tenure_total": 1763,
+    "subsidized_units_available": 131,
+    "ph_share": 7,
+    "ph_error": "FALSE",
+    "non_ph_units": 93
+  },
+  {
+    "geoid": 37119005924,
+    "li_share": 0,
+    "tenure_total": 1976,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005925,
+    "li_share": 0,
+    "tenure_total": 972,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005926,
+    "li_share": 0,
+    "tenure_total": 2313,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005927,
+    "li_share": 0,
+    "tenure_total": 2474,
+    "subsidized_units_available": 66,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119005928,
+    "li_share": 0,
+    "tenure_total": 525,
+    "subsidized_units_available": 4,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005929,
+    "li_share": 0,
+    "tenure_total": 1684,
+    "subsidized_units_available": 36,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119005930,
+    "li_share": 0,
+    "tenure_total": 1230,
+    "subsidized_units_available": 4,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119005931,
+    "li_share": 0,
+    "tenure_total": 1393,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119005932,
+    "li_share": 0,
+    "tenure_total": 960,
+    "subsidized_units_available": 4,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006005,
+    "li_share": 0,
+    "tenure_total": 1128,
+    "subsidized_units_available": 16,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006008,
+    "li_share": 4.4,
+    "tenure_total": 1407,
+    "subsidized_units_available": 24,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 93.6
+  },
+  {
+    "geoid": 37119006009,
+    "li_share": 0,
+    "tenure_total": 1311,
+    "subsidized_units_available": 25,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006011,
+    "li_share": 0,
+    "tenure_total": 932,
+    "subsidized_units_available": 38,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119006012,
+    "li_share": 0,
+    "tenure_total": 1513,
+    "subsidized_units_available": 35,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006013,
+    "li_share": 0,
+    "tenure_total": 1597,
+    "subsidized_units_available": 32,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006014,
+    "li_share": 0,
+    "tenure_total": 1386,
+    "subsidized_units_available": 8,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006015,
+    "li_share": 0,
+    "tenure_total": 1352,
+    "subsidized_units_available": 34,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119006016,
+    "li_share": 0,
+    "tenure_total": 959,
+    "subsidized_units_available": 46,
+    "ph_share": 5,
+    "ph_error": "FALSE",
+    "non_ph_units": 95
+  },
+  {
+    "geoid": 37119006103,
+    "li_share": 11.8,
+    "tenure_total": 1709,
+    "subsidized_units_available": 60,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 84.2
+  },
+  {
+    "geoid": 37119006105,
+    "li_share": 0,
+    "tenure_total": 1083,
+    "subsidized_units_available": 9,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006108,
+    "li_share": 9.2,
+    "tenure_total": 1759,
+    "subsidized_units_available": 37,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 88.8
+  },
+  {
+    "geoid": 37119006109,
+    "li_share": 5.9,
+    "tenure_total": 1279,
+    "subsidized_units_available": 52,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 90.1
+  },
+  {
+    "geoid": 37119006110,
+    "li_share": 0,
+    "tenure_total": 2221,
+    "subsidized_units_available": 38,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006111,
+    "li_share": 0,
+    "tenure_total": 1393,
+    "subsidized_units_available": 24,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006112,
+    "li_share": 0,
+    "tenure_total": 1039,
+    "subsidized_units_available": 43,
+    "ph_share": 4,
+    "ph_error": "FALSE",
+    "non_ph_units": 96
+  },
+  {
+    "geoid": 37119006113,
+    "li_share": 0,
+    "tenure_total": 1531,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006114,
+    "li_share": 0,
+    "tenure_total": 1383,
+    "subsidized_units_available": 11,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006115,
+    "li_share": 0,
+    "tenure_total": 1962,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006208,
+    "li_share": 0,
+    "tenure_total": 1594,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006209,
+    "li_share": 0,
+    "tenure_total": 2362,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006210,
+    "li_share": 0,
+    "tenure_total": 1766,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006211,
+    "li_share": 0,
+    "tenure_total": 2373,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006212,
+    "li_share": 0,
+    "tenure_total": 1785,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006214,
+    "li_share": 0,
+    "tenure_total": 1383,
+    "subsidized_units_available": 5,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006216,
+    "li_share": 0,
+    "tenure_total": 848,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006217,
+    "li_share": 0,
+    "tenure_total": 1355,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006218,
+    "li_share": 0,
+    "tenure_total": 1017,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006219,
+    "li_share": 0,
+    "tenure_total": 1074,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006220,
+    "li_share": 0,
+    "tenure_total": 1512,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006221,
+    "li_share": 0,
+    "tenure_total": 1300,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006222,
+    "li_share": 0,
+    "tenure_total": 1378,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006223,
+    "li_share": 0,
+    "tenure_total": 878,
+    "subsidized_units_available": 4,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006224,
+    "li_share": 0,
+    "tenure_total": 1247,
+    "subsidized_units_available": 6,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006305,
+    "li_share": 0,
+    "tenure_total": 1307,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006306,
+    "li_share": 0,
+    "tenure_total": 472,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006307,
+    "li_share": 0,
+    "tenure_total": 1792,
+    "subsidized_units_available": 43,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006308,
+    "li_share": 0,
+    "tenure_total": 1701,
+    "subsidized_units_available": 10,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006309,
+    "li_share": 0,
+    "tenure_total": 810,
+    "subsidized_units_available": 18,
+    "ph_share": 2,
+    "ph_error": "FALSE",
+    "non_ph_units": 98
+  },
+  {
+    "geoid": 37119006310,
+    "li_share": 0,
+    "tenure_total": 1112,
+    "subsidized_units_available": 1,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006311,
+    "li_share": 0,
+    "tenure_total": 1355,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006403,
+    "li_share": 1.8,
+    "tenure_total": 1746,
+    "subsidized_units_available": 18,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 97.2
+  },
+  {
+    "geoid": 37119006404,
+    "li_share": 0,
+    "tenure_total": 2532,
+    "subsidized_units_available": 2,
+    "ph_share": 0,
+    "ph_error": "FALSE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006407,
+    "li_share": 0,
+    "tenure_total": 1445,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006408,
+    "li_share": 0,
+    "tenure_total": 1358,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006409,
+    "li_share": 0,
+    "tenure_total": 1543,
+    "subsidized_units_available": 9,
+    "ph_share": 1,
+    "ph_error": "FALSE",
+    "non_ph_units": 99
+  },
+  {
+    "geoid": 37119006410,
+    "li_share": 0,
+    "tenure_total": 1361,
+    "subsidized_units_available": -1,
+    "ph_share": 0,
+    "ph_error": "TRUE",
+    "non_ph_units": 100
+  },
+  {
+    "geoid": 37119006411,
+    "li_share": 0,
+    "tenure_total": 1149,
+    "subsidized_units_available": 31,
+    "ph_share": 3,
+    "ph_error": "FALSE",
+    "non_ph_units": 97
+  },
+  {
+    "geoid": 37119980100,
+    "li_share": 0,
+    "tenure_total": 0,
+    "subsidized_units_available": -1,
+    "ph_share": "-Inf",
+    "ph_error": "TRUE",
+    "non_ph_units": "Inf"
+  },
+  {
+    "geoid": 37119980200,
+    "li_share": 0,
+    "tenure_total": 0,
+    "subsidized_units_available": -1,
+    "ph_share": "-Inf",
+    "ph_error": "TRUE",
+    "non_ph_units": "Inf"
+  },
+  {
+    "geoid": 37119980300,
+    "li_share": 0,
+    "tenure_total": 12,
+    "subsidized_units_available": -1,
+    "ph_share": -8,
+    "ph_error": "TRUE",
+    "non_ph_units": 108
+  }
+]

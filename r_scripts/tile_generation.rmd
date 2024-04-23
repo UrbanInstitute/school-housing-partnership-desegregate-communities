@@ -1,0 +1,109 @@
+---
+title: "presung_tile_generation"
+author: "Rachel Marconi"
+date: "2024-01-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, echo=FALSE}
+library(tidyverse)
+library(readxl)
+library(janitor)
+library(tigris) #install.packages("tigris")
+library(sf)
+library(geojsonio) #install.packages("geojsonio")
+library(rmapshaper) #install.packages("rmapshaper")
+library(mapboxapi) #install.packages("mapboxapi")
+library(BAMMtools)
+
+```
+
+```{r grab_tract_indicators}
+# this is data for coloring tracts in different mapbox layers
+tract_tile_data <- read.csv('CMSD_tract_2021.csv') %>% 
+  clean_names() %>% 
+  mutate(tract_pct_nonwhite = round( (1 - percent_white_nonhisp)*100,1)) %>% 
+  select(geoid,tract_pct_nonwhite, median_gross_rent, median_owner_cost_mortgage, percent_owner_occupied, percent_renter_occupied) %>% 
+  mutate(geoid = as.numeric(geoid))
+```
+
+
+Join with public housing rate
+```{r}
+wut<- read_csv("housing_units_in_tract.csv")
+
+tract_tile_indicators <- tract_tile_data %>% 
+  left_join(wut, by=c('geoid' = 'geoid')) %>% 
+  mutate(public_housing_share = 100 - non_ph_units) %>% 
+  select(-li_share, -tenure_total, -ph_share, -subsidized_units_available, -non_ph_units, -ph_error)
+  
+```
+
+```{r get_quantilessssssssss}
+# use these for setting the breaks for color scale in map.js layer coloring interpolation
+quant_tract_nonwhite <- getJenksBreaks(tract_tile_indicators$tract_pct_nonwhite, 6)
+quant_median_rent <- getJenksBreaks(tract_tile_indicators$median_gross_rent, 6)
+quant_median_mortgage <- getJenksBreaks(tract_tile_indicators$median_owner_cost_mortgage, 6)
+quant_owner_occ <- getJenksBreaks(tract_tile_indicators$percent_owner_occupied, 6)
+quant_renter_occ <- getJenksBreaks(tract_tile_indicators$percent_renter_occupied, 6)
+quant_public_housing <- getJenksBreaks(tract_tile_indicators$public_housing_share, 6)
+
+quant_tract_nonwhite
+quant_median_rent
+quant_median_mortgage
+quant_owner_occ
+quant_renter_occ
+quant_public_housing
+
+```
+
+
+```{r grab_the_shapes}
+#define function to extract bounding box of shape and add to dataframe
+bbox_wrap <- function(x) sf::st_bbox(x) %>% as.vector()
+
+#import shapes data
+tract_shapes <- tigris::tracts(year=2020,cb = TRUE, state = "NC", county="Mecklenburg") %>% 
+  mutate(id = as.numeric(GEOID)) %>% 
+  select(id,NAMELSAD,geometry) %>%
+  left_join(tract_tile_indicators, by = c("id" = "geoid")) %>%  # drop in relevant indicators for use in choropleth
+  mutate(bbox = map(geometry,bbox_wrap)) %>%   # add bbox to data in feature
+  mutate(bbox = str_sub(bbox, 3, -2))
+  
+
+county_shape <- tigris::counties(resolution="5m",year=2020,cb = TRUE, state = "NC") %>% 
+  filter(COUNTYFP == "119") %>% 
+  select(GEOID, NAMELSAD, geometry)%>% 
+	mutate(id = as.numeric(GEOID)) %>% 
+  mutate(bbox = map(geometry,bbox_wrap)) %>% 
+  mutate(bbox = str_sub(bbox, 3, -2))
+
+```
+
+```{r}
+#create county mbtiles
+county_shape  %>% 
+	tippecanoe(output = "out/presung-worker-county.mbtiles",
+						 other_options = "--use-attribute-for-id=id",
+						 layer_name = "county",overwrite = T)
+```
+
+```{r}
+#create tract mbtiles
+tract_shapes %>% 
+	tippecanoe(output = "out/presung-worker-tract.mbtiles",
+						 other_options = "--use-attribute-for-id=id",
+						 layer_name = "tract")
+```
+
+```{r save_geojsons}
+st_write(tract_shapes, "out/tract_shapes_alone.geojson", append=FALSE)
+st_write(county_shape, "out/county_shape_alone.geojson", append=FALSE)
+```
+
+
+

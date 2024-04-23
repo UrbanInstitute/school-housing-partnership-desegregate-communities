@@ -1,0 +1,8 @@
+{
+  "printWidth": 100,
+  "plugins": ["prettier-plugin-svelte"],
+  "pluginSearchDirs": ["."],
+  "svelteSortOrder": "scripts-options-markup-styles",
+  "tabWidth": 2,
+  "overrides": [{ "files": "*.svelte", "options": { "parser": "svelte" } }]
+}
