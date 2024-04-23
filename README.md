@@ -6,8 +6,6 @@ This is a tool for comparing education and housing parameters and their correlat
 
 The production URL is [https://housingmatters.urban.org/feature/how-school-officials-and-housing-developers-can-partner-desegregate-communities](https://housingmatters.urban.org/feature/how-school-officials-and-housing-developers-can-partner-desegregate-communities)
 
-The staging URL is [https://apps-staging.urban.org/features/dev/presung-housing-matters/](https://apps-staging.urban.org/features/dev/presung-housing-matters/)
-
 Design: Brittney Spinner
 
 Dataviz and Development: Rachel Marconi
