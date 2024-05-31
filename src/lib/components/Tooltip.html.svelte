@@ -5,21 +5,42 @@
 <script>
   /** @type {Object} evt - A svelte event created via [`dispatch`](https://svelte.dev/docs#createEventDispatcher) with event information under `evt.detail.e`. */
   export let evt = {};
+  export let outerHeight;
+  export let outerWidth;
+
+  function calculateTop(y, offset){
+    if (y < 100){
+      return y + 220;
+    } else {
+      return y + offset;
+    }
+  }
+
+  function calculateLeft(x, width){
+    if (x + 110 > width){
+      return width - 110;
+    } else if (x < 110) {
+      return 110;
+    } else {
+      return x;
+    }
+  }
 
   /** @type {Number} [offset=-35] - A y-offset from the hover point, in pixels. */
-  export let offset = -35;
+  export let yOffset = -35;
 </script>
 
 {#if evt.detail && evt.yVal != 0 && evt.xVal != 0}
   <div
     class="tooltip"
     style="
-        top:{evt.yVal + offset}px;
-        left:{evt.xVal}px;
+        top:{calculateTop(evt.yVal, yOffset)}px;
+        left:{calculateLeft(evt.xVal, outerWidth)}px;
       "
   >
     <slot detail={evt.detail} />
   </div>
+  
 {/if}
 
 <style>

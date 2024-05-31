@@ -17,8 +17,11 @@
     import { flyToTract } from "../../stores/map";
 
     //get data here
-    import data from "../../data/all_indicators.json";
-  import { logClickToGA } from "$utils/analytics";
+    import data_from_file from "../../data/all_indicators.json";
+    import { logClickToGA } from "$utils/analytics";
+
+    //removes Olympia High Relief School and New Southeast Elementary Relief School so range doesn't go to zero
+    $: data = data_from_file.filter(d => d.ncessch != 370297003622 && d.ncessch != 370297003623)
 
     let r = 7;
 
@@ -40,6 +43,8 @@
     let plotArea; //for unclicking popup
     let height = 0; //used for setting NA position
     let width = 0; //used for setting NA position
+    let outerHeight = 0;
+    let outerWidth = 0;
 
     $: if ($scatterplotYvar && clickedBool && plotArea && plotArea.querySelector("#" + clickedID)) {
       if (clickedBool) {
@@ -94,6 +99,7 @@
     }
   </script>
 
+  <!--svelte:window bind:innerWidth={windowWidth} bind:innerHeight={windowHeight} /-->
   <div class="scatter-all" bind:this={plotArea}>
     <div class="title">
       Charlotte Schools’ Share of Students of Color, by <span class="underlined">{$activeTitle}</span>
@@ -130,6 +136,7 @@
       use:resizeObserver={(el) => (width = el.clientWidth, height = el.clientHeight)}
       role="figure"
       aria-label="Scatterplot of student demographics by housing data."
+      bind:clientWidth={outerWidth} bind:clientHeight={outerHeight}
     >
       <LayerCake
         padding={{ top: 10, right: 5, bottom: 30, left: 15 }}
@@ -137,7 +144,7 @@
         y={$scatterplotYvar}
         xRange={[15, width - 15 - 5]}
         yRange={[height - 10 - 30, 10]}
-        xDomain={[0, 100]}
+        xDomain={[20, 100]}
         yNice={true}
         {data}
       >
@@ -170,7 +177,7 @@
         </Svg>
         <div class="tooltip-screen">
           {#if hideTooltip !== true}
-            <Tooltip {evt} let:detail>
+            <Tooltip {evt} let:detail {outerHeight} {outerWidth}>
               <!-- For the tooltip, do another data join because the hover event only has the data from the geography data -->
               {@const tooltipData = { ...detail.props }}
               <div class="row">

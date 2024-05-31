@@ -2,7 +2,7 @@
  * refers to the entire viz component this project fuels
  * this should be set manually for each project
  */
-let dataviz_title = "";
+let dataviz_title = 'presung-housing-matters';
 
 if (!dataviz_title) {
   console.warn("Hello! Please set your analytics dataviz_title in src/utils/analytics.js!");

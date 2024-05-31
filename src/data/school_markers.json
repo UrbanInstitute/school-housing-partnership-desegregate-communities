@@ -43,7 +43,7 @@
 { "type": "Feature", "properties": { "ncessch": "370297003034", "school_name": "Croft Community Elementary School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8047, 35.3465 ] } },
 { "type": "Feature", "properties": { "ncessch": "370297000813", "school_name": "Crown Point Elementary School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.715, 35.1599 ] } },
 { "type": "Feature", "properties": { "ncessch": "370297000868", "school_name": "David Cox Road Elementary School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8009, 35.3368 ] } },
-{ "type": "Feature", "properties": { "ncessch": "370297001208", "school_name": "Davidson Kñ8 School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8484, 35.4898 ] } },
+{ "type": "Feature", "properties": { "ncessch": "370297001208", "school_name": "Davidson K-8 School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8484, 35.4898 ] } },
 { "type": "Feature", "properties": { "ncessch": "370297001210", "school_name": "Devonshire Elementary School", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.746, 35.2451 ] } },
 { "type": "Feature", "properties": { "ncessch": "370297001268", "school_name": "Dilworth Elementary School: Sedgefield Campus", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8634, 35.1903 ] } },
 { "type": "Feature", "properties": { "ncessch": "370297003172", "school_name": "Dilworth Elementary School: Latta Campus", "school_level": "Primary" }, "geometry": { "type": "Point", "coordinates": [ -80.8516, 35.2114 ] } },

@@ -24,7 +24,12 @@
   }}
   on:mouseover={(e) => (hovered = true)}
   on:mouseout={(e) => (hovered = false)}
-  on:click={(e) => {$selectedSchoolID = myID; logClickToGA(e.target, "school_marker_clicked--"+myID);}}
+  on:click={(e) => {
+    // if click is on a marker for a Olympia High Relief School or New Southeast Elementary Relief School, do not click
+    if (myID != "370297003622" && myID != "370297003623"){
+      $selectedSchoolID = myID; logClickToGA(e.target, "school_marker_clicked--"+myID);
+    }
+  }}
   on:keypress={(e) => {$selectedSchoolID = myID; logClickToGA(e.target, "school_marker_clicked--"+myID);}}
   style="background-size: {mySize}px {mySize}px; height: {mySize}px; width: {mySize}px; background-image: url({image});"
 />

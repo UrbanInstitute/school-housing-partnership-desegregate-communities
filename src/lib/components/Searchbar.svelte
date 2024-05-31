@@ -10,22 +10,6 @@
     export let data;
     
     let extract = (item) => item.school_name;
-    
-    /*let onTypeaheadSelect = ({detail}) => {
-        selectedTractName = detail.selected
-        logClickToGA(e, "county_dropdown_click--"+detail.selected)
-    
-        gtag('event',
-            'dataviz_click', //eventName
-            {
-                'firing_module_name':'erap-map', 
-                'target_classes':"dropdown-container",
-                'target_id':"",
-                'target_text':"Search for your county...",
-                'dropdown_select': detail.selected
-            }
-        )
-    }*/
 
     let windowWidth = 0;
 

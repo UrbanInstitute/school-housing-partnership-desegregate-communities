@@ -309,6 +309,8 @@ export function newMapStore(el) {
 
           mark.addEventListener("click", (e) => {
             setTimeout(() => {
+              // if click is on a marker for a Olympia High Relief School or New Southeast Elementary Relief School, do not click
+              if (marker_data.properties.ncessch == "370297003622" || marker_data.properties.ncessch == "370297003623") return;
               selectedSchoolID.set(marker_data.properties.ncessch);
             }, 50);
           });
@@ -316,7 +318,12 @@ export function newMapStore(el) {
           //POPUP
           mark.addEventListener("mouseenter", showPopup);
           mark.addEventListener("mousemove", (e) => {
-            updatePopup(marker_data.properties.school_name);
+            // if mousemove is on a marker for a Olympia High Relief School or New Southeast Elementary Relief School, show extra text
+            if (marker_data.properties.ncessch == "370297003622" || marker_data.properties.ncessch == "370297003623") {
+              updatePopup(marker_data.properties.school_name + " opened in the 2022-23 academic year and does not currently have data available")
+            } else {
+              updatePopup(marker_data.properties.school_name);
+            }
           });
           mark.addEventListener("mouseleave", hidePopup);
 

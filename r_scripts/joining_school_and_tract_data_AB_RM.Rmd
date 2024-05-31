@@ -1,0 +1,293 @@
+---
+title: "spatial join presung"
+author: "Rachel Marconi"
+date: "2023-11-08"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries}
+library(sf)
+library(tidyverse)
+library(tigris)
+library(janitor)
+library(dplyr)
+
+```
+
+
+```{r get-census-tracts}
+tract_set = tracts(
+    state = "NC",
+    county = "Mecklenburg"
+    ) %>% 
+  clean_names() %>% 
+  select(-statefp, -countyfp, -aland, -awater, -funcstat, -mtfcc)
+
+```
+
+
+# An exploration is missing data
+```{r more-school-data}
+more_school_data <- read_csv('edp_school_data.csv', col_types = cols(.default="?", "ncessch" = col_character())) %>% 
+  mutate(student_teacher_ratio = round(enrollment/teachers_fte,1)) %>% 
+  mutate(percent_frl_eligible = free_or_reduced_price_lunch / enrollment) %>% 
+  select(-year, -state_location, -charter)
+glimpse(more_school_data) 
+# 182 schools
+
+# This will show you any rows where enrollment is NA. 
+more_school_data %>% 
+    filter(if_any(enrollment, ~ is.na(.x))) %>% 
+    glimpse()
+#shows our two empty schools: New Southeast Elementary Relief School and Olympic High Relief School
+
+intermed_old_race <- read_csv('edp_school_race.csv', col_types = cols(.default="?", "ncessch" = col_character())) %>% 
+    pivot_wider(names_from = race, values_from = enrollment) %>% 
+    clean_names() %>% 
+    glimpse()
+# 180 schools
+
+intermed_new_race <- read_csv('EducationDataPortal_05.16.2024_race.csv', col_types = cols(.default="?", "ncessch" = col_character())) %>% 
+  pivot_wider(names_from = race, values_from = enrollment) %>% 
+  clean_names()
+#this contains 360 entries, all race data for 2021 and for 2022. 
+
+closed_schools_race <- intermed_new_race %>% 
+  filter(str_detect(school_name,"Mint|Palisades"))
+#these schools evidently were open during both 2021 and 2022 collection years. 
+#if we switch to 2022 data, both schools will be present on the map.
+
+relief_race <- intermed_new_race %>% 
+  filter(str_detect(school_name, "Relief"))
+#our relief schools only have data for 2022.
+#also, they do have unique ncessch codes!
+
+# are we using 2021 data or 2022 data in the tool? 
+race_data_in_tool <- intermed_old_race %>% 
+  left_join(intermed_new_race, by = c("ncessch", "school_name", "state_location","white", "black", "hispanic", "asian", "american_indian_or_alaska_native", "native_hawaiian_or_other_pacific_islander","two_or_more_races", "unknown","total")) %>% 
+  select(year.x, year.y, ncessch, school_name)
+# we are using only 2021 data in the tool, which is why the relief schools dropped off. 
+# we can move to 2022 data, but we'll need to re-copyedit the school names. 
+
+new_possible_race_school_data <- intermed_new_race %>% 
+  filter(year == 2022)
+#this still has only 180 schools present
+
+# but if there are 180 schools with race data including our two relief schools and their neighbors,
+# why does our non-race school data include 182 entries?
+schools_missing_race_data <- more_school_data %>% 
+  anti_join(new_possible_race_school_data, by = c("ncessch" = "ncessch"))
+# the virtual middle and elementary schools don't have race data for 2022, only 2021
+# did they close because they were temporary for covid?
+# the high school was still open, tho
+```
+
+
+
+# Takeaways from data explorations:
+If we update our data from 2021 data to 2022 data, we'll be adding our two relief schools
+that just opened and losing two virtual schools that no longer operate.
+
+
+
+
+
+# Building out old race data
+```{r}
+race_school_data <- read_csv('edp_school_race.csv', col_types = cols(.default="?", "ncessch" = col_character())) %>% 
+  pivot_wider(names_from = race, values_from = enrollment) %>% 
+  clean_names() %>% 
+  mutate(share_white = round(white/total*100), 
+         share_black = round(black/total*100),
+         share_hisp = round(hispanic/total*100), 
+         share_asian = round(asian/total*100), 
+         share_other = round((american_indian_or_alaska_native + native_hawaiian_or_other_pacific_islander + two_or_more_races)/total*100)) %>% #unknown all zero
+  select(-year, -school_name, -state_location, -total) 
+glimpse(race_school_data)
+
+
+# Run merge test
+more_school_data %>% 
+  anti_join(race_school_data, by=c("ncessch" = "ncessch")) %>% 
+    glimpse()
+# These two schools didn't join
+
+school_specific_data <- more_school_data %>% 
+  left_join(race_school_data, by=c("ncessch" = "ncessch")) %>% 
+  st_as_sf(coords = c("longitude", "latitude"),
+            crs = st_crs(tract_set))
+glimpse(school_specific_data)
+
+# This will show you all rows where any column between enrollment and share_other
+# has an NA present
+## a lot of these columns did not go into the tool. 
+school_specific_data %>% 
+    filter(if_any(enrollment:share_other, ~ is.na(.x))) %>% 
+    glimpse() # 26 rows
+
+# This will show you any rows where enrollment is NA. 
+school_specific_data %>% 
+    filter(if_any(enrollment, ~ is.na(.x))) %>% 
+    glimpse()
+
+```
+
+
+
+###### SCHOOL DATA INTERLUDES
+
+###### interlude to find longest school name for label widths
+```{r}
+school_names <- more_school_data %>% 
+  mutate(length = nchar(school_name))
+# it's South Academy of International Languages
+```
+
+###### interlude to make marker layer geojson
+###### just basic data
+```{r markers}
+school_markers <- school_specific_data %>% 
+  select(ncessch, school_name, school_level, geometry)
+
+# this is pulled in to place markers on the map in map.js
+st_write(school_markers, "out/school_markers.geojson", append=FALSE)
+```
+
+###### interlude to save out school race data alone for in dot charts
+```{r}
+school_race_alone <- race_school_data %>% 
+  select(ncessch, contains("share"))
+
+glimpse(school_race_alone)
+# 180 schools
+
+#this is converted to json and pulled in as school race/eth source of truth for dot charts in the multiple race/eth components
+write_csv(school_race_alone, "out/school_race_alone.csv")
+```
+
+
+###### public housing data and market share from Tina
+```{r get-market-share-data}
+tract_housing_market_share <- read_csv("Mecklenburg_newVars.csv") %>% 
+  clean_names() %>% 
+  mutate(li_share = ifelse(is.na(li_housing_share), 0, li_housing_share)) %>% 
+  mutate(percent_renter_occupied = round(percent_renter_occupied*100),
+         percent_owner_occupied = round(percent_owner_occupied*100)) %>% 
+  select(geoid, market_share_total,percent_renter_occupied, percent_owner_occupied, li_share, tenure_total)
+
+```
+
+
+###### combines school data to their tract data, unique schools
+```{r join-to-tracts}
+joined_school_data <- st_join(school_specific_data, tract_set) %>% 
+  mutate(scl_pct_nonwhite = round((enrollment - white)/enrollment*100,1),
+         share_frl_eligible = round(percent_frl_eligible*100,1))
+  
+
+```
+
+###### tract data alone, unique tracts, manipulate into tool ready units, combos and rounding
+```{r get-tract-data}
+tract_data <- read_csv('CMSD_tract_2021.csv') %>% 
+  clean_names() %>% 
+  mutate(tract_pct_nonwhite = round( (1 - percent_white_nonhisp)*100,1)) %>% 
+  mutate(test_sfh_pct = round(x1_unit_detached_home / housing_units * 100,0)) %>% 
+  select(-percent_renter_occupied, -percent_owner_occupied) %>% 
+  left_join(tract_housing_market_share, by=c("geoid"="geoid")) %>% 
+   mutate(school_age_kids_in_tract = rowSums(select(., contains("under5") , contains("5to9") , contains("10to14") , contains("15to17"))))
+
+tract_indicators <- tract_data %>% 
+    mutate(percent_owner_occupied = round(percent_owner_occupied *100,0),
+         percent_renter_occupied = round(percent_renter_occupied *100,0),
+         market_share = round(market_share_total *100,0)) %>% 
+  select(geoid, market_share,school_age_kids_in_tract,
+         test_sfh_pct, median_gross_rent, median_owner_cost_mortgage, percent_owner_occupied, percent_renter_occupied) %>% 
+  write_csv("out/tract_indicators_only.csv")
+#this csv is converted to json and used in currentTract.js store for selected tract data in the tool
+
+county_indicators <- tract_indicators %>% 
+  select(-geoid) %>% 
+  colMeans(na.rm=TRUE)
+
+county_school_aged_kids <- tract_indicators %>% 
+  select(school_age_kids_in_tract) %>% 
+  colSums()
+  
+county_indicators
+#these are hardcoded into the Charlotte-specific components to reduce the number of files we're loading into the tool
+```
+
+
+###### interlude to save tract race and housing data to file
+```{r}
+tract_race <- tract_data %>% 
+  mutate(all_kids_in_tract = rowSums(select(., contains("male_")))) %>% 
+  mutate(share_white_kids = round(rowSums(select(., starts_with("white_")))*100/all_kids_in_tract),
+         share_black_kids = round(rowSums(select(., starts_with("black_")))*100/all_kids_in_tract),
+         share_hispanic_kids = round(rowSums(select(., starts_with("hisp_")))*100/all_kids_in_tract),
+         share_asian_kids = round(rowSums(select(., starts_with("asian_")))*100/all_kids_in_tract),
+         share_other_kids = round(rowSums(select(., starts_with("aian_"), starts_with("nhpi_"), starts_with("native_"), starts_with("other_")))*100/all_kids_in_tract)
+      ) %>% 
+  select(geoid, share_white_kids, share_black_kids, share_hispanic_kids, share_asian_kids, share_other_kids)
+
+write_csv(tract_race, "out/raceeth_kids_in_tract.csv")
+#this csv is encoded as json and used as the tract source of truth for dot charts in the multiple race/eth components
+
+
+county_race <- tract_race %>% 
+  select(-geoid) %>% 
+  colMeans(na.rm=TRUE)
+
+
+
+
+
+hud_data <- read_csv("hudPicture2023_383145.csv") %>% 
+  clean_names() %>% 
+  filter(trunc(code / 1000000) == 37119) %>% 
+  select(code, subsidized_units_available)
+
+tract_housing <- tract_data %>% 
+  select(geoid, li_share, tenure_total) %>% #need to update with ph units
+  left_join(hud_data, by = c("geoid" = "code")) %>% 
+  mutate(li_share = round(li_share*100,1),
+         ph_share = round(subsidized_units_available/tenure_total*100),
+         ph_share = ifelse(ph_share == -Inf, 0, ph_share),
+         ph_error = subsidized_units_available == -1,
+         non_ph_units = 100-li_share-ph_share,
+         non_ph_units = ifelse(non_ph_units > 100, 100, non_ph_units)) %>% 
+  write_csv("out/housing_units_in_tract.csv")
+#this csv is encoded as json and pulled into our tract housing gridboxes and data
+
+county_housing <- tract_housing %>% 
+  select(-geoid) %>% 
+  colMeans() 
+
+```
+
+
+
+```{r join-tract-and-school-data}
+joined_tract_school_data <- joined_school_data %>% 
+  left_join(tract_data, by=c('tractce'='tract')) %>%
+  st_drop_geometry()
+ 
+
+#ultimately feeding the tool
+all_indicators <- joined_tract_school_data %>% 
+  select(geoid = geoid.x, ncessch, school_name, street_location, city_location,enrollment, school_level, school_type, school_age_kids_in_tract,tract_pct_nonwhite,market_share_total,
+         scl_pct_nonwhite,
+         share_frl_eligible, meps_poverty_pct,student_teacher_ratio, test_sfh_pct,
+         median_gross_rent,median_owner_cost_mortgage,percent_renter_occupied,percent_owner_occupied) #%>% 
+  #filter(school_level != "Missing/not reported")
+  
+write_csv(all_indicators, 'out/schools_indicators_only.csv')
+# this is encoded as all_indicators.json and pulled into school.js for school data and to run the scatterplot
+```
+
+

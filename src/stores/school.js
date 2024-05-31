@@ -11,8 +11,9 @@ export let selectedSchoolData = derived(selectedSchoolID, ($selectedSchoolID) =>
 });
 
 //returns a list of data object schools in selected tract
+//removes Olympia High Relief School and New Southeast Elementary Relief School so no "view next school" button shows
 export let schoolsInTract = derived(currentTract, ($currentTract) => {
-  let group = tractData.filter((d) => d.geoid === $currentTract);
+  let group = tractData.filter((d) => d.geoid === $currentTract && d.ncessch != 370297003622 && d.ncessch != 370297003623);
 
   let schoolArray = [];
   group.map((d) => {
@@ -30,3 +31,4 @@ export let schoolIndexInTract = derived(
 ); //which number school is this out of whole tract?
 
 export let school_identifiers = tractData.map(({school_name, ncessch, geoid}) => ({school_name, ncessch, geoid}))
+                                          .filter(d => d.ncessch != 370297003622 && d.ncessch != 370297003623)
